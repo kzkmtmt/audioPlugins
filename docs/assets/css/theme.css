@@ -4,9 +4,9 @@
 
 
 :root {
-    --main-color:#06182f; /* #0076a8*/
-	--accent-color: #c04c0b; /*#c05708*/
-    --text-color:#202020; /* #0076a8*/
+    --main-color:#06182f; 
+	--accent-color: #c04c0b; 
+    --text-color:#202020; 
 }
 
 * {
@@ -104,7 +104,7 @@ img[alt~="center"] {
 .figure-caption {
 text-align: center;
 font-size: 0.8em;
-color: #666; /* キャプションの色を少し薄く */
+color: #666; 
 margin-top: 10pt;
 padding: 0%;
 }
@@ -118,7 +118,7 @@ pre[class*="language-"] {
   word-wrap: normal;
   line-height: 1.5;
   hyphens: none;
-  font-size: 40px !important; /* フォントサイズを16pxに固定 */
+  font-size: 40px !important; 
   max-width: 100%;
 }
 
@@ -183,7 +183,6 @@ thead tr {background: var(--main-color);}
 tbody tr:nth-child(2n+1) {background:ghostwhite}
 tbody tr:nth-child(2n) {background: #fff;}
 
-/* すべてのテーブルに適用 */
 table, .marpit table {
 	margin-left: auto;
 	margin-right: auto;
