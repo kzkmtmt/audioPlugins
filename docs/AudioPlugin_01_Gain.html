@@ -62,7 +62,7 @@
 解析などを柔軟に実現できる</li>
 </ul>
 <br />
-<p>様々な <strong>Toolbox</strong> が研究開発を支援</p>
+<p>様々な<strong>Toolbox</strong>が研究開発を支援</p>
 <ul>
 <li>信号処理</li>
 <li>機械学習</li>
@@ -109,9 +109,9 @@
 </ul>
 <h2 id="%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA%E3%81%AE%E5%86%85%E5%AE%B9">シリーズの内容</h2>
 <ul>
-<li>第1回：ゲイン (＋プラグインの作りの基礎)</li>
-<li>第2回：イコライザ</li>
-<li>第3回：ディストーション</li>
+<li><a href="AudioPlugin_01_Gain.html">第1回：ゲイン (＋プラグインの作りの基礎)</a></li>
+<li><a href="AudioPlugin_02_Filter.html">第2回：イコライザ</a></li>
+<li><a href="AudioPlugin_03_Distortion.html">第3回：ディストーション</a></li>
 </ul>
 <footer>by K.M. MATLAB Student Ambassador (@km_MATLAB_Amb)</footer>
 </section>
@@ -139,7 +139,7 @@ MATLAB をインストール済みの場合，ホーム &gt; アドオン から
 </ul>
 </li>
 <li>
-<p>VSTプラグインを読み込める DAW（<a href="https://www.reaper.fm/">Reaper</a>など）</p>
+<p>VSTプラグインを読み込める DAW（<a href="https://www.REAPER.fm/">REAPER</a>など）</p>
 </li>
 </ul>
 <footer>by K.M. MATLAB Student Ambassador (@km_MATLAB_Amb)</footer>
@@ -181,7 +181,7 @@ MATLAB をインストール済みの場合，ホーム &gt; アドオン から
 <header>#01 ゲイン　―　MATLAB で Audio Plugin 開発</header>
 <h1 id="audio-plugin-%E9%96%8B%E7%99%BA%E3%81%AE%E6%B5%81%E3%82%8C-2">Audio Plugin 開発の流れ</h1>
 <ol>
-<li><strong>アルゴリズムの開発</strong>  <img class="emoji" draggable="false" alt="📝" src="https://cdn.jsdelivr.net/gh/jdecked/twemoji@15.1.0/assets/svg/1f4dd.svg" data-marp-twemoji=""/></li>
+<li><strong>アルゴリズムの開発</strong><img class="emoji" draggable="false" alt="📝" src="https://cdn.jsdelivr.net/gh/jdecked/twemoji@15.1.0/assets/svg/1f4dd.svg" data-marp-twemoji=""/></li>
 <li>プラグインの実装
 <ul>
 <li><code>audioPlugin</code>クラスを継承</li>
@@ -231,7 +231,7 @@ y = a * x;     <span class="hljs-comment">% 入力 x に定数 a を掛けて出
 <header>#01 ゲイン　―　MATLAB で Audio Plugin 開発</header>
 <h1 id="audio-plugin-%E9%96%8B%E7%99%BA%E3%81%AE%E6%B5%81%E3%82%8C-3">Audio Plugin 開発の流れ</h1>
 <ol>
-<li><strong>アルゴリズムの開発</strong>  <img class="emoji" draggable="false" alt="📝" src="https://cdn.jsdelivr.net/gh/jdecked/twemoji@15.1.0/assets/svg/1f4dd.svg" data-marp-twemoji=""/></li>
+<li><strong>アルゴリズムの開発</strong><img class="emoji" draggable="false" alt="📝" src="https://cdn.jsdelivr.net/gh/jdecked/twemoji@15.1.0/assets/svg/1f4dd.svg" data-marp-twemoji=""/></li>
 <li>プラグインの実装
 <ul>
 <li><code>audioPlugin</code>クラスを継承</li>
@@ -253,7 +253,7 @@ y = a * x;     <span class="hljs-comment">% 入力 x に定数 a を掛けて出
 <li>アルゴリズムの開発<img class="emoji" draggable="false" alt="✅" src="https://cdn.jsdelivr.net/gh/jdecked/twemoji@15.1.0/assets/svg/2705.svg" data-marp-twemoji=""/></li>
 <li>プラグインの実装
 <ul>
-<li><strong><code>audioPlugin</code>クラスを継承</strong> <img class="emoji" draggable="false" alt="📝" src="https://cdn.jsdelivr.net/gh/jdecked/twemoji@15.1.0/assets/svg/1f4dd.svg" data-marp-twemoji=""/></li>
+<li><strong><code>audioPlugin</code>クラスを継承</strong><img class="emoji" draggable="false" alt="📝" src="https://cdn.jsdelivr.net/gh/jdecked/twemoji@15.1.0/assets/svg/1f4dd.svg" data-marp-twemoji=""/></li>
 <li><code>process</code>メソッド内にアルゴリズムを実装</li>
 <li><code>pluginInterface</code>で操作画面を実装</li>
 </ul>
@@ -318,7 +318,7 @@ y = a * x;     <span class="hljs-comment">% 入力 x に定数 a を掛けて出
 <li>アルゴリズムの開発<img class="emoji" draggable="false" alt="✅" src="https://cdn.jsdelivr.net/gh/jdecked/twemoji@15.1.0/assets/svg/2705.svg" data-marp-twemoji=""/></li>
 <li>プラグインの実装
 <ul>
-<li><strong><code>audioPlugin</code>クラスを継承</strong> <img class="emoji" draggable="false" alt="📝" src="https://cdn.jsdelivr.net/gh/jdecked/twemoji@15.1.0/assets/svg/1f4dd.svg" data-marp-twemoji=""/></li>
+<li><strong><code>audioPlugin</code>クラスを継承</strong><img class="emoji" draggable="false" alt="📝" src="https://cdn.jsdelivr.net/gh/jdecked/twemoji@15.1.0/assets/svg/1f4dd.svg" data-marp-twemoji=""/></li>
 <li><code>process</code>メソッド内にアルゴリズムを実装</li>
 <li><code>pluginInterface</code>で操作画面を実装</li>
 </ul>
@@ -686,11 +686,11 @@ MEX テストベンチの実行中... 合格.
 <p>様々な DAW 上で動作確認するのが望ましい</p>
 </li>
 <li>
-<p>本シリーズでは Reaper を用いる</p>
+<p>本シリーズでは REAPER を用いる</p>
 </li>
 <li>
 <p>DAW ごとに VST Plugin の読み込み方法が異なる</p>
-<p><strong>【Reaper の場合】</strong></p>
+<p><strong>【REAPER の場合】</strong></p>
 <ul>
 <li>Option &gt; Preferences &gt; VST &gt; Edit path list &gt; add path で</li>
 <li>DLL ファイルの格納されたディレクトリを追加し Rescan ボタンを押す</li>
@@ -698,7 +698,7 @@ MEX テストベンチの実行中... 合格.
 </li>
 </ul>
 <blockquote>
-<p><a href="https://www.reaper.fm/">https://www.reaper.fm/</a></p>
+<p><a href="https://www.REAPER.fm/">https://www.REAPER.fm/</a></p>
 </blockquote>
 <footer>by K.M. MATLAB Student Ambassador (@km_MATLAB_Amb)</footer>
 </section>
@@ -727,7 +727,6 @@ MEX テストベンチの実行中... 合格.
 </foreignObject></svg><svg data-marpit-svg="" viewBox="0 0 2560 1440"><foreignObject width="2560" height="1440"><section id="36" data-header="#01 ゲイン　―　MATLAB で Audio Plugin 開発" data-footer="by K.M. MATLAB Student Ambassador (@km_MATLAB_Amb)" data-paginate="true" data-class="title" data-theme="theme" lang="ja-JP" class="title" data-marpit-pagination="36" style="--header:#01 ゲイン　―　MATLAB で Audio Plugin 開発;--footer:by K.M. MATLAB Student Ambassador (@km_MATLAB_Amb);--paginate:true;--class:title;--theme:theme;" data-marpit-pagination-total="37">
 <header>#01 ゲイン　―　MATLAB で Audio Plugin 開発</header>
 
-<h1 id="-3"></h1>
 <h1 id="%E3%81%8A%E3%82%8F%E3%82%8A%E3%81%AB">おわりに</h1>
 <footer>by K.M. MATLAB Student Ambassador (@km_MATLAB_Amb)</footer>
 </section>
@@ -735,13 +734,15 @@ MEX テストベンチの実行中... 合格.
 <header>#01 ゲイン　―　MATLAB で Audio Plugin 開発</header>
 <h1 id="%E3%81%BE%E3%81%A8%E3%82%81">まとめ</h1>
 <ul>
-<li>の実装</li>
+<li>ゲインの実装</li>
 <li>Audio Plugin 開発の流れ</li>
 </ul>
 <h1 id="%E5%BD%B9%E7%AB%8B%E3%81%A4%E8%B3%87%E6%96%99">役立つ資料</h1>
 <ul>
+<li><a href="https://matlabacademy.mathworks.com/jp/details/matlab-onramp/gettingstarted">MATLAB 入門</a>：MATLAB の基本的な使い方</li>
+<li><a href="https://matlabacademy.mathworks.com/jp/details/object-oriented-programming-onramp/oroop">オブジェクト指向プログラミング入門</a>：オブジェクト指向プログラミング</li>
 <li><a href="https://jp.mathworks.com/help/audio/ug/audio-plugin-example-gallery.html">Audio Plugin Example Gallery</a>：Audio Plugin の MATLAB 実装例</li>
-<li><a href="https://jp.mathworks.com/help/audio/audio-plugin-creation-and-hosting.html?s_tid=CRUX_lftnav">Audio Plugin Creation and Hosting</a>：Audio Plugin 関連のドキュメント</li>
+<li><a href="https://jp.mathworks.com/help/audio/audio-plugin-creation-and-hosting.html?s_tid=CRUX_lftnav">Audio Plugin Creation and Hosting</a>：Audio Plugin 関連のドキュメント<a href="https://matlabacademy.mathworks.com/jp/details/object-oriented-programming-onramp/oroop">オブジェクト指向プログラミング入門</a></li>
 </ul>
 <footer>by K.M. MATLAB Student Ambassador (@km_MATLAB_Amb)</footer>
 </section>
