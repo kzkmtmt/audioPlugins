@@ -1,0 +1,13 @@
+function [b,a] = calcLPFCoeffs(fc,fs,Q)
+    wc    = 2*pi*fc/fs;
+    alpha = sin(wc)/(2*Q);
+    coswc = cos(wc);
+    
+    b = [ (1-coswc)/2,...
+           1-coswc,   ...
+          (1-coswc)/2]/(1+alpha);
+
+    a = [1+alpha,...
+         -2*coswc,...
+         1-alpha]/(1+alpha);
+end

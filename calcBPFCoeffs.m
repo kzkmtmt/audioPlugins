@@ -1,0 +1,13 @@
+function [b,a] = calcBPFCoeffs(fc,fs,Q)
+    wc    = 2*pi*fc/fs;
+    alpha = sin(wc)/(2*Q);
+    cosw0 = cos(wc);
+
+    b = [ Q*alpha,...
+          0,...
+         -Q*alpha];
+
+    a = [1+alpha,...
+         -2*cosw0,...
+         1-alpha];
+end
