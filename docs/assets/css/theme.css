@@ -2,7 +2,6 @@
 /* @auto-scaling false */
 @import 'default';
 
-
 :root {
     --main-color:#06182f; 
 	--accent-color: #c04c0b; 
@@ -223,6 +222,7 @@ table, .marpit table {
   
   ul {
 	list-style: disc; /* デフォルトの箇条書きスタイル */
+	margin-top: 0.5em; /* 項目間の間隔を設定 */
 	padding-left: 1.5em; /* 左のインデントを設定 */
   }
   
