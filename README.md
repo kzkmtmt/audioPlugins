@@ -1,3 +1,3 @@
 # MATLAB でオーディオプラグイン開発
 
-* [スライド](https://kzkmtmt.github.io/audioPlugins/)
+[スライド](https://kzkmtmt.github.io/audioPlugins/)
