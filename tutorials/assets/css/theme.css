@@ -1,0 +1,233 @@
+/* @theme theme */
+/* @auto-scaling false */
+@import 'default';
+
+
+:root {
+    --main-color:#06182f; /* #0076a8*/
+	--accent-color: #c04c0b; /*#c05708*/
+    --text-color:#202020; /* #0076a8*/
+}
+
+* {
+	padding: 0;
+	margin: 0;
+}
+
+section {
+	width: 1920pt;
+	height: 1080pt;
+	font-size: 40pt;
+	padding-left:  50pt;
+	padding-right: 50pt;
+	padding-top: 120pt;   
+    display: flex;
+    justify-content: flex-start;
+	color: var(--text-color);
+}
+
+header {
+	width: 100%;
+	height: auto;
+	padding: 14pt;
+	color: white;
+	background: var(--main-color);
+	font-size: 30pt;
+	font-weight: 600;
+	transform: translate(-30pt,-21pt);
+	display: flex;
+	justify-content: start;
+}
+	
+section.title{
+	padding: 0;
+	text-align: center;
+	background-image: none;
+    display: flex;
+    justify-content: center;
+}
+
+footer {
+	color:gray;
+	font-size: 20pt;
+	justify-content: start;
+}
+
+h1 {
+	font-size: 50pt;
+	font-weight: bold;
+	color: var(--accent-color);
+	justify-content: start;
+	margin-top: 0;
+	padding-top: 0;
+	padding-bottom: 10pt;
+}
+
+h2 {
+	font-size: 40pt;
+	color: var(--text-color);
+	justify-content: start;
+	margin: 0;
+	padding: 5;
+}
+
+a {
+	color: var(--text-color);
+	font-weight: bolder;
+  }
+
+a:after {
+	content: "🔗";
+	font-size: 70%;
+	vertical-align: top;
+}
+
+blockquote {
+    border-top: 1pt solid gray;
+	border-left: none;
+    font-size: 20pt;
+    margin-top: 30pt;
+	color: var(--main-color);
+}
+
+img[alt~="center"] {
+	display: block;
+	margin: 0 auto;
+  }
+
+.shadowed-img{
+	box-shadow: 4pt 4pt 10pt rgba(0, 0, 0, 0.3);
+	border-radius: 5pt; 
+	width: 100%;
+}
+  
+.figure-caption {
+text-align: center;
+font-size: 0.8em;
+color: #666; /* キャプションの色を少し薄く */
+margin-top: 10pt;
+padding: 0%;
+}
+
+code[class*="language-"],
+pre[class*="language-"] {
+  color: #333;
+  background: #f8f8f8;
+  font-family: Consolas, Monaco, 'Andale Mono', 'Ubuntu Mono', monospace;
+  text-align: left;
+  word-wrap: normal;
+  line-height: 1.5;
+  hyphens: none;
+  font-size: 40px !important; /* フォントサイズを16pxに固定 */
+  max-width: 100%;
+}
+
+/* コメント */
+.hljs-comment,
+.hljs-quote {
+  color: #008013;
+}
+
+/* キーワード */
+.hljs-keyword,
+.hljs-selector-tag,
+.hljs-subst {
+  color: #0000ff;
+}
+
+/* 演算子、タイトル、セクション */
+.hljs-title,
+.hljs-section,
+.hljs-attribute,
+.hljs-name,
+.hljs-variable,
+.hljs-template-variable,
+.hljs-class .hljs-title,
+.hljs-type,
+.hljs-tag,
+.hljs-built_in,
+.hljs-builtin-name,
+.hljs-selector-attr,
+.hljs-selector-pseudo,
+.hljs-literal {
+	color: #000
+}
+
+/* 関数 */
+
+/* 文字列 */
+.hljs-string,
+.hljs-regexp,
+.hljs-symbol{
+  color: #a709f5;
+}
+
+/* 数値 */
+.hljs-number{
+  /* color: #098658; */
+  color: #000;
+}
+
+.blue-text {
+	color: #0072BD;
+  }
+  
+.orange-text {
+color: #D95319;
+}
+
+
+table {margin-left: auto;margin-right: auto;table-layout: fixed;width: 90%;display:table;}
+thead th {color: white; text-align: center !important;}
+thead tr {background: var(--main-color);}
+tbody tr:nth-child(2n+1) {background:ghostwhite}
+tbody tr:nth-child(2n) {background: #fff;}
+
+/* すべてのテーブルに適用 */
+table, .marpit table {
+	margin-left: auto;
+	margin-right: auto;
+	table-layout: fixed;
+	width: 90%;
+	display: table;
+	border-collapse: collapse; /* 枠線を統合 */
+	border-spacing: 0;
+  }
+  
+  /* ヘッダーのデザイン */
+  thead th, .marpit th {
+	color: white;
+	text-align: center !important;
+	padding: 8pt;
+  }
+  
+  /* ヘッダー行の背景色 */
+  thead tr, .marpit thead tr {
+	background: var(--main-color);
+  }
+  
+  /* 偶数・奇数行の背景色 */
+  tbody tr:nth-child(2n+1), .marpit tbody tr:nth-child(2n+1) {
+	background: ghostwhite;
+  }
+  
+  tbody tr:nth-child(2n), .marpit tbody tr:nth-child(2n) {
+	background: #fff;
+  }
+  
+  /* すべてのセルに適用 */
+  th, td, .marpit th, .marpit td {
+	border: 1pt solid #ccc;
+	padding: 8pt;
+	text-align: left;
+  }
+  
+  ul {
+	list-style: disc; /* デフォルトの箇条書きスタイル */
+	padding-left: 1.5em; /* 左のインデントを設定 */
+  }
+  
+  /* リスト項目のスタイル */
+  ul li {
+	margin-bottom: 0.5em; /* 項目間の間隔を設定 */
+  }
