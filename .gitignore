@@ -1,4 +1,5 @@
 *.md
 *.mlx
-./audioplugin
 /audioplugin
+temp.png
+/*.dll
