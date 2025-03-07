@@ -8,7 +8,7 @@ classdef MATLAB_Distortion < audioPlugin
     end
 
     properties (Constant)
-        M = 8; % オーバーサンプリングの時数
+        M = 8; % オーバーサンプリングの次数
     end
 
     properties (Constant)
@@ -32,11 +32,11 @@ classdef MATLAB_Distortion < audioPlugin
 
         % 処理
         function y = process(p,x)
-            a   = db2mag(p.pregain);       % 単位変換
+            a   = db2mag(p.pregain);      % 単位変換
             b   = p.bias;
-            xos = p.interpolator(x);       % アップサンプリング
-            yos = hardclip(a * (xos + b)); % ディストーション
-            y   = p.decimator(yos);        % ダウンサンプリング
+            x2  = p.interpolator(x);      % アップサンプリング
+            y2  = hardclip(a * (x2 + b)); % ディストーション
+            y   = p.decimator(y2);        % ダウンサンプリング
         end
     end
 end
