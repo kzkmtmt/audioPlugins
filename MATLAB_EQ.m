@@ -4,7 +4,7 @@ classdef MATLAB_EQ < audioPlugin
         fs                % サンプリング周波数
         fc   = 2000       % カットオフ周波数
         Q    = 1/sqrt(2)  % レゾナンス
-        z    = zeros(2,2) % フィルタの内部状態（2次 x 2ch）
+        z    = zeros(2,2) % フィルタの遅延器の状態（2次 x 2ch）
         type = 'LowPass'; % フィルタの種類
     end
 
