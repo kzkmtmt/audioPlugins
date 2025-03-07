@@ -99,7 +99,7 @@ MathWorks 社の**数値解析ソフトウェア**
 
 <div style="flex: 5;">
 
-## MATLABを無料で使えるライセンス
+## MATLAB を無料で使えるライセンス
 - 大学などの教育機関が MathWorks と提携
 - MATLAB 本体だけでなく，Toolbox も無料
 - 使わないともったいない！
@@ -109,7 +109,7 @@ MathWorks 社の**数値解析ソフトウェア**
 ## MATLAB Student Ambassador
 
  Campus-Wide License を導入する大学で
-**MATLABの利用を促進**するために活動する学生
+**MATLAB の利用を促進**するために活動する学生
 
 - **MATLAB 講習会**の開催
 - 質問への対応
