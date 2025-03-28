@@ -21,7 +21,7 @@ MATLAB を用いた Audio Plugin 開発のチュートリアルです．
 
 ## 前提とする知識
 
-1. MATLAB の基本的な使い方．学習にはブラウザ上で MATLAB を学習できる [MATLAB 入門](https://matlabacademy.mathworks.com/jp/details/matlab-onramp/gettingstarted) をご活用ください．
+MATLAB の基本的な使い方．学習にはブラウザ上で MATLAB を学習できる [MATLAB 入門](https://matlabacademy.mathworks.com/jp/details/matlab-onramp/gettingstarted) をご活用ください．
 
 ## プログラムの実行に必要なもの
 
