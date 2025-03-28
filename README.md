@@ -19,6 +19,10 @@ MATLAB を用いた Audio Plugin 開発のチュートリアルです．
 | 2    | イコライザ                        | `MATLAB_EQ.m`         |                 | [PDF](https://kzkmtmt.github.io/audioPlugins/pdf/AudioPlugin_02_EQ.pdf) | [HTML](https://kzkmtmt.github.io/audioPlugins/AudioPlugin_02_EQ.html) |
 | 3    | ディストーション                  | `MATLAB_Distortion.m` |                 | [PDF](https://kzkmtmt.github.io/audioPlugins/pdf/AudioPlugin_03_Distortion.pdf) | [HTML](https://kzkmtmt.github.io/audioPlugins/AudioPlugin_03_Distortion.html) |
 
+## 前提とする知識
+
+MATLAB の基本的な使い方．これは [MATLAB 入門](https://matlabacademy.mathworks.com/jp/details/matlab-onramp/gettingstarted) で学習できます．ぜひご活用ください．
+
 ## プログラムの実行に必要なもの
 
 ### 1. MATLAB 本体
@@ -27,8 +31,6 @@ MATLAB を用いた Audio Plugin 開発のチュートリアルです．
 
 Campus-wide License を導入している大学では，大学のメールアドレスで MathWorks アカウントを作成することで MATLAB を入手できます．
 詳細は[こちら](https://jp.mathworks.com/academia/tah-support-program/eligibility.html)，または各大学の案内をご確認ください．
-
-💡 MATLAB の基本的な使い方は [MATLAB 入門](https://matlabacademy.mathworks.com/jp/details/matlab-onramp/gettingstarted) で学習できます．ぜひご活用ください．
 
 ### 2. 各種 Toolbox
 
