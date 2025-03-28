@@ -26,7 +26,7 @@ MATLAB を用いた Audio Plugin 開発のチュートリアルです．
 Campus-wide License を導入している大学に所属している場合，大学のメールアドレスで MathWorks アカウントを作成することで MATLAB をインストールできます（詳細は[こちら](https://jp.mathworks.com/academia/tah-support-program/eligibility.html)）．
 詳細は各大学の案内をご確認ください．
 
-### 2. MATLAB Toolbox
+### 2. 各種 Toolbox
 
 Audio Plugin の生成には Signal Processing Toolbox, DSP System Toolbox, Audio Toolbox が必要です．
 MATLAB インストール時の Toolbox 選択欄でこれらの製品を追加してください．
