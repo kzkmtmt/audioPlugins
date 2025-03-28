@@ -20,9 +20,20 @@ MATLAB を用いた Audio Plugin 開発のチュートリアルです．
 * スライドは `docs` フォルダに配置しています．
 
 ## プログラムの実行に必要なもの
-* MATLAB 2024b：
-* Toolbox（Signal Processing Toolbox, DSP System Toolbox, Audio Toolbox）
-  * MATLAB をインストール済みの場合：[ホーム > アドオン](https://jp.mathworks.com/products/matlab/add-on-explorer.html) から追加できる
-* [C/C++ コンパイラ](https://jp.mathworks.com/support/req操作画面rements/supported-compilers.html)（Audio Toolbox をカバーするもの）
-  * Windowsの場合：[Microsoft Visual C++ 2022](https://jp.mathworks.com/matlabcentral/fileexchange/52848-matlab-support-for-mingw-w64-c-c-fortran-compiler) など
-    * インストール時に [Desktop development with C++](https://jp.mathworks.com/matlabcentral/answers/443349-how-do-i-install-visual-studio-for-use-with-matlab-simulink) を選択してください
+
+### 1. MATLAB 本体
+
+Campus-wide License を導入している大学に所属している場合，大学のメールアドレスで MathWorks アカウントを作成することで MATLAB をインストールできます（詳細は[こちら](https://jp.mathworks.com/academia/tah-support-program/eligibility.html)）．
+詳細は各大学の案内をご確認ください．
+
+### 2. MATLAB Toolbox
+
+Audio Plugin の生成には Signal Processing Toolbox, DSP System Toolbox, Audio Toolbox が必要です．
+MATLAB インストール時の Toolbox 選択欄でこれらの製品を追加してください．
+MATLAB をインストール済みの場合は [ホーム > アドオン](https://jp.mathworks.com/products/matlab/add-on-explorer.html) から追加することも可能です．
+
+### 3. C/C++ コンパイラ
+
+Audio Plugin の生成にはAudio Toolbox をカバーする [C/C++ コンパイラ](https://jp.mathworks.com/support/requirements/supported-compilers.html) のインストールが必要です．
+
+Windowsの場合は [Microsoft Visual C++ 2022](https://visualstudio.microsoft.com/ja/vs/community/) が利用可能です．Visual Studio インストール時に Desktop development with C++ を選択してください（詳細は[こちら](https://jp.mathworks.com/matlabcentral/answers/443349-how-do-i-install-visual-studio-for-use-with-matlab-simulink)）
