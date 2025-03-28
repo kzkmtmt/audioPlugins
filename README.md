@@ -23,8 +23,12 @@ MATLAB を用いた Audio Plugin 開発のチュートリアルです．
 
 ### 1. MATLAB 本体
 
+[MATLAB](https://jp.mathworks.com/products/matlab.html) 本体が必要です．
+
 Campus-wide License を導入している大学に所属している場合，大学のメールアドレスで MathWorks アカウントを作成することで MATLAB をインストールできます（詳細は[こちら](https://jp.mathworks.com/academia/tah-support-program/eligibility.html)）．
 詳細は各大学の案内をご確認ください．
+
+💡 MATLAB の基本的な使い方は [MATLAB 入門](https://matlabacademy.mathworks.com/jp/details/matlab-onramp/gettingstarted) で学習できます．ぜひご活用ください．
 
 ### 2. 各種 Toolbox
 
