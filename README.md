@@ -34,7 +34,8 @@ Campus-Wide License を導入している大学では，大学のメールアド
 
 ### 2. 各種 Toolbox
 
-Audio Plugin の生成には [Audio Toolbox](https://jp.mathworks.com/products/audio.html)，[DSP System Toolbox](https://jp.mathworks.com/products/dsp-system.html)，そして [Signal Processing Toolbox](https://jp.mathworks.com/products/signal.html) が必要です
+Audio Plugin の生成には [Audio Toolbox](https://jp.mathworks.com/products/audio.html)，[DSP System Toolbox](https://jp.mathworks.com/products/dsp-system.html)，そして [Signal Processing Toolbox](https://jp.mathworks.com/products/signal.html) が必要です．
+
 MATLAB インストール時の Toolbox 選択欄でこれらの製品を追加してください．
 
 MATLAB をインストール済みの場合は [ホーム > アドオン](https://jp.mathworks.com/products/matlab/add-on-explorer.html) から追加することも可能です．
