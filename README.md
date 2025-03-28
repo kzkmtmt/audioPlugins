@@ -10,6 +10,9 @@ MATLAB を用いた Audio Plugin 開発のチュートリアルです．
 
 本リポジトリでは，MATLAB を用いて実装した Audio Plugin の実装を公開しています．
 解説は YouTube の動画を確認してください．
+
+資料のダウンロードは [こちら](https://github.com/kzkmtmt/audioPlugins/archive/refs/heads/main.zip)．
+
 * ゲイン（[PDF](https://kzkmtmt.github.io/audioPlugins/pdf/AudioPlugin_01_Gain.pdf), [HTML](https://kzkmtmt.github.io/audioPlugins/AudioPlugin_01_Gain.html)）
 * イコライザ（[PDF](https://kzkmtmt.github.io/audioPlugins/pdf/AudioPlugin_02_EQ.pdf), [HTML](https://kzkmtmt.github.io/audioPlugins/AudioPlugin_02_EQ.html)）
 * ディストーション（[PDF](https://kzkmtmt.github.io/audioPlugins/pdf/AudioPlugin_03_Distortion.pdf), [HTML](https://kzkmtmt.github.io/audioPlugins/AudioPlugin_03_Distortion.html)）
