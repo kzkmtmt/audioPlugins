@@ -17,11 +17,6 @@ MATLAB を用いた Audio Plugin 開発のチュートリアルです．
 * イコライザ（[PDF](https://kzkmtmt.github.io/audioPlugins/pdf/AudioPlugin_02_EQ.pdf), [HTML](https://kzkmtmt.github.io/audioPlugins/AudioPlugin_02_EQ.html)）
 * ディストーション（[PDF](https://kzkmtmt.github.io/audioPlugins/pdf/AudioPlugin_03_Distortion.pdf), [HTML](https://kzkmtmt.github.io/audioPlugins/AudioPlugin_03_Distortion.html)）
 
-## 内容
-* 実装した Plugin は `MATLAB_○○.mat` というファイル名でリポジトリ直下に配置しています．
-* YouTube の動画内で紹介しているサンプルプログラムは `note` フォルダに配置しています．
-* スライドは `docs` フォルダに配置しています．
-
 ## プログラムの実行に必要なもの
 
 ### 1. MATLAB 本体
@@ -40,3 +35,8 @@ MATLAB をインストール済みの場合は [ホーム > アドオン](https:
 Audio Plugin の生成にはAudio Toolbox をカバーする [C/C++ コンパイラ](https://jp.mathworks.com/support/requirements/supported-compilers.html) のインストールが必要です．
 
 Windowsの場合は [Microsoft Visual C++ 2022](https://visualstudio.microsoft.com/ja/vs/community/) が利用可能です．Visual Studio インストール時に Desktop development with C++ を選択してください（詳細は[こちら](https://jp.mathworks.com/matlabcentral/answers/443349-how-do-i-install-visual-studio-for-use-with-matlab-simulink)）
+
+## 内容
+* 実装した Plugin は `MATLAB_○○.mat` というファイル名でリポジトリ直下に配置しています．
+* YouTube の動画内で紹介しているサンプルプログラムは `note` フォルダに配置しています．
+* スライドは `docs` フォルダに配置しています．
