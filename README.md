@@ -37,10 +37,3 @@ MATLAB をインストール済みの場合は [ホーム > アドオン](https:
 Audio Plugin の生成にはAudio Toolbox をカバーする [C/C++ コンパイラ](https://jp.mathworks.com/support/requirements/supported-compilers.html) のインストールが必要です．
 
 Windowsの場合は [Microsoft Visual C++ 2022](https://visualstudio.microsoft.com/ja/vs/community/) が利用可能です．Visual Studio インストール時に Desktop development with C++ を選択してください（詳細は[こちら](https://jp.mathworks.com/matlabcentral/answers/443349-how-do-i-install-visual-studio-for-use-with-matlab-simulink)）
-
-
-
-## 内容
-* 実装した Plugin は `MATLAB_○○.mat` というファイル名でリポジトリ直下に配置しています．
-* YouTube の動画内で紹介しているサンプルプログラムは `note` フォルダに配置しています．
-* スライドは `docs` フォルダに配置しています．
