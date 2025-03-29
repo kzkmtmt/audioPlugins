@@ -36,7 +36,7 @@ MATLAB の基本的な使い方．学習にはブラウザ上で MATLAB を学�
 Audio Plugin の生成には [Audio Toolbox](https://jp.mathworks.com/products/audio.html)，[DSP System Toolbox](https://jp.mathworks.com/products/dsp-system.html)，そして [Signal Processing Toolbox](https://jp.mathworks.com/products/signal.html) が必要です．
 
 > MATLAB インストール時の Toolbox 選択欄でこれらの製品を追加してください．<br>
-> MATLAB をインストール済みの場合は [ホーム > アドオン](https://jp.mathworks.com/products/matlab/add-on-explorer.html) から追加することも可能です．
+> MATLAB をインストール済みの場合は <br> [ホーム > アドオン](https://jp.mathworks.com/products/matlab/add-on-explorer.html) から追加することも可能です．
 
 ### 3. C/C++ コンパイラ
 
