@@ -28,16 +28,15 @@ MATLAB の基本的な使い方．学習にはブラウザ上で MATLAB を学�
 
 [MATLAB](https://jp.mathworks.com/products/matlab.html) 本体が必要です．動画内では R2024b を使用しています．
 
-Campus-Wide License を導入している大学では，大学のメールアドレスで MathWorks アカウントを作成することで MATLAB を入手できます．
-詳細は[こちら](https://jp.mathworks.com/academia/tah-support-program/eligibility.html)，または各大学の案内をご確認ください．
+> Campus-Wide License を導入している大学では，大学のメールアドレスで MathWorks アカウントを作成することで MATLAB を入手できます．<br>
+> 詳細は[こちら](https://jp.mathworks.com/academia/tah-support-program/eligibility.html)，または各大学の案内をご確認ください．
 
 ### 2. 各種 Toolbox
 
 Audio Plugin の生成には [Audio Toolbox](https://jp.mathworks.com/products/audio.html)，[DSP System Toolbox](https://jp.mathworks.com/products/dsp-system.html)，そして [Signal Processing Toolbox](https://jp.mathworks.com/products/signal.html) が必要です．
 
-MATLAB インストール時の Toolbox 選択欄でこれらの製品を追加してください．
-
-MATLAB をインストール済みの場合は [ホーム > アドオン](https://jp.mathworks.com/products/matlab/add-on-explorer.html) から追加することも可能です．
+> MATLAB インストール時の Toolbox 選択欄でこれらの製品を追加してください．<br>
+> MATLAB をインストール済みの場合は [ホーム > アドオン](https://jp.mathworks.com/products/matlab/add-on-explorer.html) から追加することも可能です．
 
 ### 3. C/C++ コンパイラ
 
