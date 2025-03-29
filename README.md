@@ -32,6 +32,7 @@ MATLAB の基本的な使い方．
 
 [MATLAB](https://jp.mathworks.com/products/matlab.html) 本体が必要です．動画内では R2024b を使用しています．
 
+> [!TIP]
 > Campus-Wide License を導入している大学では，<br>大学のメールアドレスで MathWorks アカウントを作成することで MATLAB を入手できます．<br>
 > 詳細は[こちら](https://jp.mathworks.com/academia/tah-support-program/eligibility.html)，または各大学の案内をご確認ください．
 
@@ -39,6 +40,7 @@ MATLAB の基本的な使い方．
 
  [Audio Toolbox](https://jp.mathworks.com/products/audio.html)，[DSP System Toolbox](https://jp.mathworks.com/products/dsp-system.html)，そして [Signal Processing Toolbox](https://jp.mathworks.com/products/signal.html) が必要です．
 
+> [!TIP]
 > MATLAB インストール時の Toolbox 選択欄でこれらの製品を追加してください．<br>
 > MATLAB をインストール済みの場合は <br> [ホーム > アドオン](https://jp.mathworks.com/products/matlab/add-on-explorer.html) から追加することも可能です．
 
@@ -49,4 +51,4 @@ Audio Plugin の生成にはAudio Toolbox をカバーする [C/C++ コンパイ
 Windowsの場合は [Microsoft Visual C++ 2022](https://visualstudio.microsoft.com/ja/vs/community/) が利用可能です．
 
 > [!WARNING]  
-> Visual Studio インストール時に Desktop development with C++　<br>（日本語では C++ によるデスクトップ開発）ワークロードを選択してください（詳細は[こちら](https://jp.mathworks.com/matlabcentral/answers/443349-how-do-i-install-visual-studio-for-use-with-matlab-simulink)）
+> Visual Studio インストール時に Desktop development with C++（日本語では C++ によるデスクトップ開発）ワークロードを選択してください（詳細は[こちら](https://jp.mathworks.com/matlabcentral/answers/443349-how-do-i-install-visual-studio-for-use-with-matlab-simulink)）
