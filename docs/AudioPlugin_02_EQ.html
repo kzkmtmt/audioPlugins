@@ -357,11 +357,11 @@ x4 = x(<span class="hljs-number">3073</span>:<span class="hljs-number">4096</spa
     
     b = [ (<span class="hljs-number">1</span>-coswc)/<span class="hljs-number">2</span>,...
            <span class="hljs-number">1</span>-coswc,   ...
-          (<span class="hljs-number">1</span>-coswc)/<span class="hljs-number">2</span>]/(<span class="hljs-number">1</span>+alpha);
+          (<span class="hljs-number">1</span>-coswc)/<span class="hljs-number">2</span>];
 
     a = [<span class="hljs-number">1</span>+alpha,...
          <span class="hljs-number">-2</span>*coswc,...
-         <span class="hljs-number">1</span>-alpha]/(<span class="hljs-number">1</span>+alpha);
+         <span class="hljs-number">1</span>-alpha];
 <span class="hljs-keyword">end</span>
 </code></pre>
 <footer>by K.M. MATLAB Student Ambassador (@km_MATLAB_Amb)</footer>
@@ -377,11 +377,11 @@ x4 = x(<span class="hljs-number">3073</span>:<span class="hljs-number">4096</spa
 
     b = [ (<span class="hljs-number">1</span>+coswc)/<span class="hljs-number">2</span>,...
          -(<span class="hljs-number">1</span>+coswc),...
-          (<span class="hljs-number">1</span>+coswc)/<span class="hljs-number">2</span>]/(<span class="hljs-number">1</span>+alpha);
+          (<span class="hljs-number">1</span>+coswc)/<span class="hljs-number">2</span>];
 
     a = [<span class="hljs-number">1</span>+alpha,...
          <span class="hljs-number">-2</span>*coswc,...
-         <span class="hljs-number">1</span>-alpha]/(<span class="hljs-number">1</span>+alpha);
+         <span class="hljs-number">1</span>-alpha];
 <span class="hljs-keyword">end</span>
 </code></pre>
 <footer>by K.M. MATLAB Student Ambassador (@km_MATLAB_Amb)</footer>
@@ -393,14 +393,14 @@ x4 = x(<span class="hljs-number">3073</span>:<span class="hljs-number">4096</spa
 <pre><code class="language-MATLAB"><span class="hljs-function"><span class="hljs-keyword">function</span> <span class="hljs-params">[b,a]</span> = <span class="hljs-title">calcBPFCoeffs</span><span class="hljs-params">(fc,fs,Q)</span></span>
     wc    = <span class="hljs-number">2</span>*<span class="hljs-built_in">pi</span>*fc/fs;
     alpha = <span class="hljs-built_in">sin</span>(wc)/(<span class="hljs-number">2</span>*Q);
-    cosw0 = <span class="hljs-built_in">cos</span>(wc);
+    coswc = <span class="hljs-built_in">cos</span>(wc);
 
     b = [ Q*alpha,...
           <span class="hljs-number">0</span>,...
          -Q*alpha];
 
     a = [<span class="hljs-number">1</span>+alpha,...
-         <span class="hljs-number">-2</span>*cosw0,...
+         <span class="hljs-number">-2</span>*coswc,...
          <span class="hljs-number">1</span>-alpha];
 <span class="hljs-keyword">end</span>
 </code></pre>
