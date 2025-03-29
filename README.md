@@ -28,7 +28,7 @@ MATLAB の基本的な使い方．学習にはブラウザ上で MATLAB を学�
 
 [MATLAB](https://jp.mathworks.com/products/matlab.html) 本体が必要です．動画内では R2024b を使用しています．
 
-> Campus-Wide License を導入している大学では，大学のメールアドレスで MathWorks アカウントを作成することで MATLAB を入手できます．<br>
+> Campus-Wide License を導入している大学では，<br>大学のメールアドレスで MathWorks アカウントを作成することで MATLAB を入手できます．<br>
 > 詳細は[こちら](https://jp.mathworks.com/academia/tah-support-program/eligibility.html)，または各大学の案内をご確認ください．
 
 ### 2. 各種 Toolbox
