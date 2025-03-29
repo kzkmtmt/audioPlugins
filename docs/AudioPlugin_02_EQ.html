@@ -190,13 +190,13 @@
 <pre><code class="language-MATLAB">fc    = <span class="hljs-number">400</span>; 
 Q     = <span class="hljs-number">2</span>; 
 fs    = <span class="hljs-number">16000</span>; 
-w0    = <span class="hljs-number">2</span>*<span class="hljs-built_in">pi</span>*fc/fs;
-alpha = <span class="hljs-built_in">sin</span>(w0)/(<span class="hljs-number">2</span>*Q);
-cosw0 = <span class="hljs-built_in">cos</span>(w0);
+wc    = <span class="hljs-number">2</span>*<span class="hljs-built_in">pi</span>*fc/fs;
+alpha = <span class="hljs-built_in">sin</span>(wc)/(<span class="hljs-number">2</span>*Q);
+coswc = <span class="hljs-built_in">cos</span>(wc);
 
 <span class="hljs-comment">% b = [b0 b1 b2], a = [a0 a1 a2]</span>
-b = [ (<span class="hljs-number">1</span>-cosw0)/<span class="hljs-number">2</span>,<span class="hljs-number">1</span>-cosw0,(<span class="hljs-number">1</span>-cosw0)/<span class="hljs-number">2</span>]; 
-a = [<span class="hljs-number">1</span>+alpha,<span class="hljs-number">-2</span>*cosw0,<span class="hljs-number">1</span>-alpha];
+b = [ (<span class="hljs-number">1</span>-coswc)/<span class="hljs-number">2</span>,<span class="hljs-number">1</span>-coswc,(<span class="hljs-number">1</span>-coswc)/<span class="hljs-number">2</span>]; 
+a = [<span class="hljs-number">1</span>+alpha,<span class="hljs-number">-2</span>*coswc,<span class="hljs-number">1</span>-alpha];
 </code></pre>
 </div>
 </div>
