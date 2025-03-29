@@ -4,6 +4,8 @@
 
 松本和樹（[@km_MATLAB_Amb](https://x.com/km_MATLAB_Amb)）
 
+プログラムのダウンロードは [こちら](https://github.com/kzkmtmt/audioPlugins/archive/refs/heads/main.zip)．
+
 ## はじめに
 本シリーズは，MATLAB Student Ambassador の活動の一環として作成した，
 MATLAB を用いた Audio Plugin 開発のチュートリアルです．
@@ -11,7 +13,6 @@ MATLAB を用いた Audio Plugin 開発のチュートリアルです．
 本リポジトリでは，MATLAB を用いて実装した Audio Plugin の実装を公開しています．
 解説は YouTube の動画を確認してください．
 
-プログラムのダウンロードは [こちら](https://github.com/kzkmtmt/audioPlugins/archive/refs/heads/main.zip)．
 
 | #    | 内容                              | 実装                  | 解説動画（YouTube） | スライド（PDF）                                              | スライド（HTML）                                             |
 | ---- | --------------------------------- | --------------------- | --------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
