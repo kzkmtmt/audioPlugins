@@ -2,7 +2,8 @@
 
 松本和樹（早稲田大学，MATLAB Student Ambassador，[@km_MATLAB_Amb](https://x.com/km_MATLAB_Amb)）
 
-> [!TIP] ダウンロードは [こちら](https://github.com/kzkmtmt/audioPlugins/archive/refs/heads/main.zip)．
+> [!NOTE]  
+> ダウンロードは [こちら](https://github.com/kzkmtmt/audioPlugins/archive/refs/heads/main.zip)．
 
 ## はじめに
 本シリーズは，MATLAB Student Ambassador の活動の一環として作成した，
@@ -20,7 +21,10 @@ MATLAB を用いた Audio Plugin 開発のチュートリアルです．
 
 ## 前提とする知識
 
-MATLAB の基本的な使い方．学習にはブラウザ上で MATLAB を学習できる [MATLAB 入門](https://matlabacademy.mathworks.com/jp/details/matlab-onramp/gettingstarted) をご活用ください．
+MATLAB の基本的な使い方．
+
+> [!TIP]
+> 学習にはブラウザ上で MATLAB を学習できる [MATLAB 入門](https://matlabacademy.mathworks.com/jp/details/matlab-onramp/gettingstarted) をご活用ください．
 
 ## プログラムの実行に必要なもの
 
@@ -44,6 +48,5 @@ Audio Plugin の生成にはAudio Toolbox をカバーする [C/C++ コンパイ
 
 Windowsの場合は [Microsoft Visual C++ 2022](https://visualstudio.microsoft.com/ja/vs/community/) が利用可能です．
 
->  ⚠️ Visual Studio インストール時に Desktop development with C++　<br>（日本語では C++ によるデスクトップ開発）ワークロードを選択してください（詳細は[こちら](https://jp.mathworks.com/matlabcentral/answers/443349-how-do-i-install-visual-studio-for-use-with-matlab-simulink)）
-
-
+> [!WARNING]  
+> Visual Studio インストール時に Desktop development with C++　<br>（日本語では C++ によるデスクトップ開発）ワークロードを選択してください（詳細は[こちら](https://jp.mathworks.com/matlabcentral/answers/443349-how-do-i-install-visual-studio-for-use-with-matlab-simulink)）
