@@ -26,8 +26,6 @@ MATLAB の Audio Toolbox の機能を用い，VST Plugin を生成します．
 
 ## プログラムの実行に必要なもの
 
----
-
 ### 1. MATLAB 本体
 
 MATLAB 本体が必要です．動画内では R2024b を使用しています．
@@ -35,9 +33,6 @@ MATLAB 本体が必要です．動画内では R2024b を使用しています�
 > [!NOTE]
 > Campus-Wide License を導入している大学では，**大学のメールアドレスで MathWorks アカウントを作成**することで MATLAB を入手できます．
 > 詳細は[こちら](https://jp.mathworks.com/academia/tah-support-program/eligibility.html)，または各大学の案内をご確認ください．
-
-
----
 
 ### 2. 各種 MATLAB Toolbox
 
@@ -47,8 +42,6 @@ MATLAB 本体が必要です．動画内では R2024b を使用しています�
 * Signal Processing Toolbox
 
 [ホーム > アドオン](https://jp.mathworks.com/products/matlab/add-on-explorer.html) から Add-On Explorer を開き，「Audio Toolbox」を検索してインストールしてください．
-
----
 
 ### 3. C/C++ コンパイラ
 
@@ -64,6 +57,3 @@ Audio Toolbox に対応した C/C++ コンパイラが必要です．
 > <img src="https://github.com/user-attachments/assets/cb153f80-0a41-448b-9a19-6396ef86b96f" width="50%">
   
 **Windows 以外をお使いの場合（動作未確認）**：対応するコンパイラの一覧表（[Mac](https://jp.mathworks.com/support/requirements/supported-compilers-mac.html) | [Linux](https://jp.mathworks.com/support/requirements/supported-compilers-linux.html)）の中から，Audio Toolbox にチェックマークの入っているものを選択してください．
-
-
----
