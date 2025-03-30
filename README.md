@@ -25,7 +25,7 @@ MATLAB の Audio Toolbox の機能を用い，VST Plugin を生成します．
 > Audio Plugin 作成の前に，MATLAB の基本的な使い方を習得することをお勧めします．学習にはブラウザ上で MATLAB を学習できる [MATLAB 入門](https://matlabacademy.mathworks.com/jp/details/matlab-onramp/gettingstarted) をご活用ください．
 
 > [!WARNING]
-> `note` ディレクトリは削除し，すべてのコードを直下に配置しました．`MATLAB_Distortion.m` は改良版をアップロードしています．解説動画内の実装とは挙動が異なりますのでご注意ください．
+> `note` ディレクトリは削除し，すべてのコードをリポジトリ直下に配置しました．`MATLAB_Distortion.m` は改良版をアップロードしています．解説動画内の実装とは挙動が異なりますのでご注意ください．
 
 ## プログラムの実行に必要なもの
 
