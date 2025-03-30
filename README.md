@@ -2,8 +2,8 @@
 
 松本和樹（早稲田大学，MATLAB Student Ambassador，[@km_MATLAB_Amb](https://x.com/km_MATLAB_Amb)）
 
-> [!NOTE]  
-> ダウンロードは [こちら](https://github.com/kzkmtmt/audioPlugins/archive/refs/heads/main.zip)．
+## 資料のダウンロード
+ [こちら](https://github.com/kzkmtmt/audioPlugins/archive/refs/heads/main.zip) をクリック
 
 ## はじめに
 本シリーズは，MATLAB Student Ambassador の活動の一環として作成した，
