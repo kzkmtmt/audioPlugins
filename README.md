@@ -43,7 +43,7 @@ Audio Toolbox が必要です．また，Audio Toolbox の依存する DSP Syste
 
 ### 3. C/C++ コンパイラ
 
-Audio Plugin の生成にはAudio Toolbox をカバーする [C/C++ コンパイラ](https://jp.mathworks.com/support/requirements/supported-compilers.html) のインストールが必要です．
+Audio Plugin の生成にはAudio Toolbox をカバーする C/C++ コンパイラのインストールが必要です．対応するコンパイラの一覧表は [こちら](https://jp.mathworks.com/support/requirements/supported-compilers.html)
 
 Windowsの場合は [Microsoft Visual C++ 2022](https://visualstudio.microsoft.com/ja/vs/community/) が利用可能です．
 
