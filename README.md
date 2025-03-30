@@ -21,7 +21,7 @@
 | 2    | イコライザ                        | `MATLAB_EQ.m`         | [YouTube](https://youtu.be/MqkE1pm16eA) | [PDF](https://kzkmtmt.github.io/audioPlugins/pdf/AudioPlugin_02_EQ.pdf) | [HTML](https://kzkmtmt.github.io/audioPlugins/AudioPlugin_02_EQ.html) |
 | 3    | ディストーション                  | `MATLAB_Distortion.m` | [YouTube](https://youtu.be/a8o5jZuILuk) | [PDF](https://kzkmtmt.github.io/audioPlugins/pdf/AudioPlugin_03_Distortion.pdf) | [HTML](https://kzkmtmt.github.io/audioPlugins/AudioPlugin_03_Distortion.html) |
 
-> [!TIP]
+> [!NOTE]
 > Audio Plugin 作成の前に，MATLAB の基本的な使い方を習得することをお勧めします．学習にはブラウザ上で MATLAB を学習できる [MATLAB 入門](https://matlabacademy.mathworks.com/jp/details/matlab-onramp/gettingstarted) をご活用ください．
 
 
@@ -39,7 +39,7 @@
 
 MATLAB を入手してください．
 
-> [!TIP]
+> [!NOTE]
 > Campus-Wide License を導入している大学では，**大学のメールアドレスで MathWorks アカウントを作成**することで MATLAB を入手できます．
 > 詳細は[こちら](https://jp.mathworks.com/academia/tah-support-program/eligibility.html)，または各大学の案内をご確認ください．
 
