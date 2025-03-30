@@ -26,10 +26,6 @@
 
 
 
-http://img.youtube.com/vi/6pWxrbXzk8g/maxresdefault.jpg
-
-
-
 > [!NOTE]
 > Audio Plugin 作成の前に，MATLAB の基本的な使い方を習得することをお勧めします．学習にはブラウザ上で MATLAB を学習できる [MATLAB 入門](https://matlabacademy.mathworks.com/jp/details/matlab-onramp/gettingstarted) をご活用ください．
 
