@@ -40,7 +40,7 @@ MATLAB の Audio Toolbox の機能を用い，VST Plugin を生成します．
 * DSP System Toolbox
 * Signal Processing Toolbox
 
-[ホーム > アドオン](https://jp.mathworks.com/products/matlab/add-on-explorer.html) から Add-On Explorer を開き，Audio Toolbox を検索してインストールしてください．
+[ホーム > アドオン](https://jp.mathworks.com/products/matlab/add-on-explorer.html) から Add-On Explorer を開き，「Audio Toolbox」を検索してインストールしてください．
 
 ### 3. C/C++ コンパイラ
 
