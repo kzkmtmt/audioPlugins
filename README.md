@@ -10,7 +10,7 @@
 * [プログラム（最新版）](https://github.com/kzkmtmt/audioPlugins/archive/refs/heads/main.zip)
 
 ## 内容
-本シリーズは Student Ambassador の活動の一環として作成した Audio Plugin 開発のチュートリアルです．
+本シリーズは MATLAB Student Ambassador の活動の一環として作成した Audio Plugin 開発のチュートリアルです．
 MATLAB の Audio Toolbox の機能を用い，VST Plugin を生成します．
 
 本リポジトリでは，MATLAB を用いて実装した Audio Plugin の実装を公開しています．
