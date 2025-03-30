@@ -27,14 +27,14 @@ MATLAB の基本的な使い方．
 
 ## プログラムの実行に必要なもの
 
-### 1. MATLAB 本体
+### 1) MATLAB 本体
 
 [MATLAB](https://jp.mathworks.com/products/matlab.html) 本体が必要です．動画内では R2024b を使用しています．
 
 > Campus-Wide License を導入している大学では，<br>大学のメールアドレスで MathWorks アカウントを作成することで MATLAB を入手できます．<br>
 > 詳細は[こちら](https://jp.mathworks.com/academia/tah-support-program/eligibility.html)，または各大学の案内をご確認ください．
 
-### 2. 各種 MATLAB Toolbox
+### 2) 各種 MATLAB Toolbox
 
 以下の三つの Toolbox が必要です．
 * Audio Toolbox
@@ -43,7 +43,7 @@ MATLAB の基本的な使い方．
 
 > MATLAB インストール時の Toolbox 選択欄でこれらの製品を追加するか，<br> [ホーム > アドオン](https://jp.mathworks.com/products/matlab/add-on-explorer.html) から追加してください
 
-### 3. C/C++ コンパイラ
+### 3) C/C++ コンパイラ
 
 Audio Toolbox をカバーする C/C++ コンパイラのインストールが必要です．
 
