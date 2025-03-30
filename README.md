@@ -34,6 +34,7 @@ MATLAB 本体が必要です．動画内では R2024b を使用しています�
 > Campus-Wide License を導入している大学では，**大学のメールアドレスで MathWorks アカウントを作成**することで MATLAB を入手できます．
 > 詳細は[こちら](https://jp.mathworks.com/academia/tah-support-program/eligibility.html)，または各大学の案内をご確認ください．
 
+
 ### 2. 各種 MATLAB Toolbox
 
 以下の三つの Toolbox が必要です．
@@ -45,16 +46,26 @@ MATLAB 本体が必要です．動画内では R2024b を使用しています�
 
 ### 3. C/C++ コンパイラ
 
-Audio Toolbox に対応した C/C++ コンパイラが必要です．
 
-**Windows をお使いの場合**：[Microsoft Visual C++ 2022](https://visualstudio.microsoft.com/ja/vs/community/) を利用できます．
+Audio Toolbox に対応した C/C++ コンパイラが必要です．
+  
+<details>
+  
+<summary> Windows をお使いの場合 </summary>
+
+[Microsoft Visual C++ 2022](https://visualstudio.microsoft.com/ja/vs/community/) を利用できます．
 
 > [!IMPORTANT]
 > Visual Studio インストール時に「C++ によるデスクトップ開発」ワークロードを選択してください
 > 
 > <img src="https://github.com/user-attachments/assets/cb153f80-0a41-448b-9a19-6396ef86b96f" width="50%">
 
-**Windows 以外をお使いの場合**：ご自身の環境で利用できるコンパイラをインストールしてください．
+</details>
 
-> [!IMPORTANT]
-> 対応するコンパイラの一覧表（[Mac](https://jp.mathworks.com/support/requirements/supported-compilers-mac.html) | [Linux](https://jp.mathworks.com/support/requirements/supported-compilers-linux.html)）の中から，Audio Toolbox にチェックマークの入っているものを選択してください．
+<details>
+  
+<summary> Windows 以外をお使いの場合 </summary>
+
+対応するコンパイラの一覧表（[Mac](https://jp.mathworks.com/support/requirements/supported-compilers-mac.html) | [Linux](https://jp.mathworks.com/support/requirements/supported-compilers-linux.html)）の中から，Audio Toolbox にチェックマークの入っているものを選択してください．
+
+</details>
