@@ -43,6 +43,8 @@ MATLAB 本体が必要です．動画内では R2024b を使用しています�
 
 [ホーム > アドオン](https://jp.mathworks.com/products/matlab/add-on-explorer.html) から Add-On Explorer を開き，「Audio Toolbox」を検索してインストールしてください．
 
+![Image](https://github.com/user-attachments/assets/686a9229-e8db-4a6c-bbca-a74d83eac8e1)
+
 ### 3. C/C++ コンパイラ
 
 Audio Toolbox に対応した C/C++ コンパイラが必要です．
