@@ -1,4 +1,3 @@
-[資料のダウンロード）](https://github.com/kzkmtmt/audioPlugins/archive/refs/heads/main.zip)
 
 ---
 
@@ -15,6 +14,7 @@ MATLAB の Audio Toolbox の機能を用い，VST Plugin を生成します．
 
 解説は YouTube の動画を確認してください．
 
+* [資料のダウンロード）](https://github.com/kzkmtmt/audioPlugins/archive/refs/heads/main.zip)
 
 | #    | 内容                              | 実装                  | 解説動画（YouTube） | スライド（PDF）                                              | スライド（HTML）                                             |
 | ---- | --------------------------------- | --------------------- | --------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
