@@ -41,7 +41,7 @@ MATLAB の基本的な使い方．
 * DSP System Toolbox
 * Signal Processing Toolbox
 
-> MATLAB インストール時の Toolbox 選択欄でこれらの製品を追加してください．<br>
+> MATLAB インストール時の Toolbox 選択欄でこれらの製品を追加するか，<br>
 > MATLAB をインストール済みの場合は [ホーム > アドオン](https://jp.mathworks.com/products/matlab/add-on-explorer.html) から追加することも可能です．
 
 ### 3. C/C++ コンパイラ
