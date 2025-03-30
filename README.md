@@ -36,18 +36,24 @@ MATLAB の基本的な使い方．
 
 ### 2. 各種 MATLAB Toolbox
 
-Audio Toolbox が必要です
+以下の三つの Toolbox が必要です．
+* Audio Toolbox
+* DSP System Toolbox
+* Signal Processing Toolbox
 
 > MATLAB インストール時の Toolbox 選択欄でこれらの製品を追加してください．<br>
 > MATLAB をインストール済みの場合は [ホーム > アドオン](https://jp.mathworks.com/products/matlab/add-on-explorer.html) から追加することも可能です．
 
-> [!CAUTION]
-> Audio Toolbox には DSP System Toolbox と Signal Processing Toolbox も必要ですので，併せてインストールしてください．
-
 ### 3. C/C++ コンパイラ
 
-Audio Toolbox をカバーする C/C++ コンパイラのインストールが必要です．対応するコンパイラの一覧表は [こちら](https://jp.mathworks.com/support/requirements/supported-compilers.html)
+Audio Toolbox をカバーする C/C++ コンパイラのインストールが必要です．
 
-Windowsの場合は [Microsoft Visual C++ 2022](https://visualstudio.microsoft.com/ja/vs/community/) が利用可能です．
+#### Windows をお使いの場合
+
+ [Microsoft Visual C++ 2022](https://visualstudio.microsoft.com/ja/vs/community/) が利用可能です．
 
 > Visual Studio インストール時に Desktop development with C++（日本語では C++ によるデスクトップ開発）ワークロードを選択してください（詳細は[こちら](https://jp.mathworks.com/matlabcentral/answers/443349-how-do-i-install-visual-studio-for-use-with-matlab-simulink)）
+
+#### Windows 以外をお使いの場合
+
+[対応するコンパイラの一覧表](https://jp.mathworks.com/support/requirements/supported-compilers.html) を確認し，ご自身の環境で利用できるコンパイラをインストールしてください；．
