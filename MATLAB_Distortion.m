@@ -45,7 +45,7 @@ classdef MATLAB_Distortion < audioPlugin
             x2  = p.interpolator(x);
             y2  = hardclip(a * x2 + b); % 式を変更
             y   = p.decimator(y2);
-            y   = y - hardclip(b); % 直流成分の除去（スピーカーの損傷防止）
+            y   = y - hardclip(b); % 直流成分の除去
         end
     end
 end
