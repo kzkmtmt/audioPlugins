@@ -51,4 +51,4 @@ Windows をお使いの場合，[Microsoft Visual C++ 2022](https://visualstudio
 
 > Visual Studio インストール時に C++ によるデスクトップ開発ワークロードを選択してください（詳細は[こちら](https://jp.mathworks.com/matlabcentral/answers/443349-how-do-i-install-visual-studio-for-use-with-matlab-simulink)）
 
-Windows 以外をお使いの場合は [対応するコンパイラの一覧表](https://jp.mathworks.com/support/requirements/supported-compilers.html) を確認し，ご自身の環境で利用できるコンパイラをインストールしてください．
+Windows 以外をお使いの場合，対応するコンパイラの一覧表（[Mac](https://jp.mathworks.com/support/requirements/supported-compilers-mac.html) | [Linux](https://jp.mathworks.com/support/requirements/supported-compilers-linux.html)）を確認し，ご自身の環境で利用できるコンパイラをインストールしてください．
