@@ -47,12 +47,12 @@ MATLAB の基本的な使い方．
 
 Audio Toolbox をカバーする C/C++ コンパイラのインストールが必要です．
 
-#### Windows をお使いの場合
+#### 3.1 Windows をお使いの場合
 
  [Microsoft Visual C++ 2022](https://visualstudio.microsoft.com/ja/vs/community/) を利用できます．
 
 > Visual Studio インストール時に Desktop development with C++（日本語では C++ によるデスクトップ開発）ワークロードを選択してください（詳細は[こちら](https://jp.mathworks.com/matlabcentral/answers/443349-how-do-i-install-visual-studio-for-use-with-matlab-simulink)）
 
-#### Windows 以外をお使いの場合
+#### 3.2 Windows 以外をお使いの場合
 
 [対応するコンパイラの一覧表](https://jp.mathworks.com/support/requirements/supported-compilers.html) を確認し，ご自身の環境で利用できるコンパイラをインストールしてください．
