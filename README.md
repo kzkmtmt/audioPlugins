@@ -27,8 +27,6 @@ MATLAB の Audio Toolbox の機能を用い，VST Plugin を生成します．
 
 
 ## ダウンロード & 実行手順
-
-<details>
   
 [サンプルプログラム（最新版）](https://github.com/kzkmtmt/audioPlugins/archive/refs/heads/main.zip) をダウンロード & 展開し，プログラムの入っているフォルダを MATLAB の「現在のフォルダ」として開いてください．以下のような画面になっていれば OK です．
 
@@ -37,11 +35,7 @@ MATLAB の Audio Toolbox の機能を用い，VST Plugin を生成します．
 > [!WARNING]
 > `note` ディレクトリは削除し，すべてのコードをリポジトリ直下に配置しました．`MATLAB_Distortion.m` は改良版をアップロードしています．解説動画内の実装とは挙動が異なりますのでご注意ください．
 
-</details>
-
 ## プログラムの実行に必要なもの
-
-<details>
   
 ### 1. MATLAB
 
@@ -75,11 +69,7 @@ Audio Toolbox に対応した C/C++ コンパイラが必要です．
   
 **Windows 以外をお使いの場合（動作未確認）**：対応するコンパイラの一覧表（[Mac](https://jp.mathworks.com/support/requirements/supported-compilers-mac.html) | [Linux](https://jp.mathworks.com/support/requirements/supported-compilers-linux.html)）の中から，Audio Toolbox にチェックマークの入っているものを選択してください．
 
-</details>
-
 ## 実行用コマンド
-
-<details>
 
 テストベンチ起動コマンド
 ```
@@ -93,8 +83,6 @@ generateAudioPlugin -outdir dll\ MATLAB_EQ.m
 generateAudioPlugin -outdir dll\ MATLAB_Distortion.m
 ```
 
-</details>
-  
 ## 免責事項
 本リポジトリで提供するプログラム，スクリプト，およびドキュメント類は，参考目的で公開するものです．内容や動作については可能な限り検証していますが，その正確性，完全性，安全性，動作，特定用途への適合性を保証するものではありません．
 
