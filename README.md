@@ -2,10 +2,7 @@
 
 松本和樹（早稲田大学，MATLAB Student Ambassador，[@km_MATLAB_Amb](https://x.com/km_MATLAB_Amb)）
 
-## ダウンロード & 実行手順
-1. [サンプルプログラム（最新版）](https://github.com/kzkmtmt/audioPlugins/archive/refs/heads/main.zip) をダウンロード & 展開してください．
-1. プログラムの入っているフォルダを MATLAB の「現在のフォルダ」として開いてください．
-1. 以降は解説動画の通りです．
+* [サンプルプログラム（最新版）](https://github.com/kzkmtmt/audioPlugins/archive/refs/heads/main.zip)
 
 ## 内容
 本シリーズは Student Ambassador の活動の一環として作成した Audio Plugin 開発のチュートリアルです．
@@ -25,6 +22,13 @@ MATLAB の Audio Toolbox の機能を用い，VST Plugin を生成します．
 
 > [!TIP]
 > Audio Plugin 作成の前に，MATLAB の基本的な使い方を習得することをお勧めします．学習にはブラウザ上で MATLAB を学習できる [MATLAB 入門](https://matlabacademy.mathworks.com/jp/details/matlab-onramp/gettingstarted) をご活用ください．
+
+
+## ダウンロード & 実行手順
+
+[サンプルプログラム（最新版）](https://github.com/kzkmtmt/audioPlugins/archive/refs/heads/main.zip) をダウンロード & 展開し，プログラムの入っているフォルダを MATLAB の「現在のフォルダ」として開いてください．
+
+  ![image](https://github.com/user-attachments/assets/d34658c9-c091-4f0a-9bde-e306cd454a1e)
 
 > [!WARNING]
 > `note` ディレクトリは削除し，すべてのコードをリポジトリ直下に配置しました．`MATLAB_Distortion.m` は改良版をアップロードしています．解説動画内の実装とは挙動が異なりますのでご注意ください．
