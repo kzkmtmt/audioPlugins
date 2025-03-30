@@ -14,8 +14,6 @@ MATLAB の Audio Toolbox の機能を用い，VST Plugin を生成します．
 
 解説は YouTube の動画を確認してください．
 
-* [資料のダウンロード）](https://github.com/kzkmtmt/audioPlugins/archive/refs/heads/main.zip)
-
 | #    | 内容                              | 実装                  | 解説動画（YouTube） | スライド（PDF）                                              | スライド（HTML）                                             |
 | ---- | --------------------------------- | --------------------- | --------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | 1    | ゲイン (＋プラグインの作りの基礎) | `MATLAB_Gain.m`       |                 | [PDF](https://kzkmtmt.github.io/audioPlugins/pdf/AudioPlugin_01_Gain.pdf) | [HTML](https://kzkmtmt.github.io/audioPlugins/AudioPlugin_01_Gain.html) |
@@ -28,7 +26,7 @@ MATLAB の Audio Toolbox の機能を用い，VST Plugin を生成します．
 
 ## ダウンロード & 実行手順
   
-[サンプルプログラム（最新版）](https://github.com/kzkmtmt/audioPlugins/archive/refs/heads/main.zip) をダウンロード & 展開し，プログラムの入っているフォルダを MATLAB の「現在のフォルダ」として開いてください．以下のような画面になっていれば OK です．
+[プログラム（最新版）](https://github.com/kzkmtmt/audioPlugins/archive/refs/heads/main.zip) をダウンロード & 展開し，プログラムの入っているフォルダを MATLAB の「現在のフォルダ」として開いてください．以下のような画面になっていれば OK です．
 
   ![image](https://github.com/user-attachments/assets/d34658c9-c091-4f0a-9bde-e306cd454a1e)
 
