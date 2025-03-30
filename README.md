@@ -22,7 +22,7 @@
 | ---- | --------------------------------- | --------------------- | --------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | 1    | ゲイン (＋プラグインの作りの基礎) | `MATLAB_Gain.m`       | [![YouTube](https://img.youtube.com/vi/6pWxrbXzk8g/0.jpg)](https://www.youtube.com/watch?v=6pWxrbXzk8g) | [PDF](https://kzkmtmt.github.io/audioPlugins/pdf/AudioPlugin_01_Gain.pdf) | [HTML](https://kzkmtmt.github.io/audioPlugins/AudioPlugin_01_Gain.html) |
 | 2    | イコライザ                        | `MATLAB_EQ.m`         | [![YouTube](https://img.youtube.com/vi/D5gkb9DIL-c/0.jpg)](https://www.youtube.com/watch?v=D5gkb9DIL-c) | [PDF](https://kzkmtmt.github.io/audioPlugins/pdf/AudioPlugin_02_EQ.pdf) | [HTML](https://kzkmtmt.github.io/audioPlugins/AudioPlugin_02_EQ.html) |
-| 3    | ディストーション                  | `MATLAB_Distortion.m` | [![YouTube](https://img.youtube.com/vi/pDanvVW20As&/0.jpg)](https://www.youtube.com/watch?v=pDanvVW20As&) | [PDF](https://kzkmtmt.github.io/audioPlugins/pdf/AudioPlugin_03_Distortion.pdf) | [HTML](https://kzkmtmt.github.io/audioPlugins/AudioPlugin_03_Distortion.html) |
+| 3    | ディストーション                  | `MATLAB_Distortion.m` | [![YouTube](https://img.youtube.com/vi/pDanvVW20As/0.jpg)](https://www.youtube.com/watch?v=pDanvVW20As) | [PDF](https://kzkmtmt.github.io/audioPlugins/pdf/AudioPlugin_03_Distortion.pdf) | [HTML](https://kzkmtmt.github.io/audioPlugins/AudioPlugin_03_Distortion.html) |
 
 
 
