@@ -55,7 +55,7 @@ Audio Toolbox に対応した C/C++ コンパイラが必要です．
 **Windows をお使いの場合**：[Microsoft Visual C++ 2022](https://visualstudio.microsoft.com/ja/vs/community/) を利用できます．
 
 > [!IMPORTANT]
-> Visual Studio インストール時に「C++ によるデスクトップ開発」ワークロードを選択してください
+> Visual Studio インストール時に「C++ によるデスクトップ開発」を選択してください
 > 
 > <img src="https://github.com/user-attachments/assets/cb153f80-0a41-448b-9a19-6396ef86b96f" width="50%">
   
