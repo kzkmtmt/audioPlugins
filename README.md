@@ -17,9 +17,9 @@
 
 | #    | 内容                              | 実装 <br> [![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat&logo=MATLAB&logoColor=white)]() | 解説 <br> [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=YouTube&logoColor=white)](https://www.youtube.com/@km_MATLAB_Amb) | スライド（PDF）                                              | スライド（HTML）                                             |
 | ---- | --------------------------------- | --------------------- | --------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| 1    | ゲイン (＋プラグインの作りの基礎) | `MATLAB_Gain.m`       | [YouTube](https://youtu.be/bWrkLawnXwI) | [PDF](https://kzkmtmt.github.io/audioPlugins/pdf/AudioPlugin_01_Gain.pdf) | [HTML](https://kzkmtmt.github.io/audioPlugins/AudioPlugin_01_Gain.html) |
-| 2    | イコライザ                        | `MATLAB_EQ.m`         | [YouTube](https://youtu.be/MqkE1pm16eA) | [PDF](https://kzkmtmt.github.io/audioPlugins/pdf/AudioPlugin_02_EQ.pdf) | [HTML](https://kzkmtmt.github.io/audioPlugins/AudioPlugin_02_EQ.html) |
-| 3    | ディストーション                  | `MATLAB_Distortion.m` | [YouTube](https://youtu.be/a8o5jZuILuk) | [PDF](https://kzkmtmt.github.io/audioPlugins/pdf/AudioPlugin_03_Distortion.pdf) | [HTML](https://kzkmtmt.github.io/audioPlugins/AudioPlugin_03_Distortion.html) |
+| 1    | ゲイン (＋プラグインの作りの基礎) | `MATLAB_Gain.m`       | [YouTube](https://youtu.be/6pWxrbXzk8g) | [PDF](https://kzkmtmt.github.io/audioPlugins/pdf/AudioPlugin_01_Gain.pdf) | [HTML](https://kzkmtmt.github.io/audioPlugins/AudioPlugin_01_Gain.html) |
+| 2    | イコライザ                        | `MATLAB_EQ.m`         | [YouTube](https://youtu.be/D5gkb9DIL-c) | [PDF](https://kzkmtmt.github.io/audioPlugins/pdf/AudioPlugin_02_EQ.pdf) | [HTML](https://kzkmtmt.github.io/audioPlugins/AudioPlugin_02_EQ.html) |
+| 3    | ディストーション                  | `MATLAB_Distortion.m` | [YouTube](https://youtu.be/pDanvVW20As) | [PDF](https://kzkmtmt.github.io/audioPlugins/pdf/AudioPlugin_03_Distortion.pdf) | [HTML](https://kzkmtmt.github.io/audioPlugins/AudioPlugin_03_Distortion.html) |
 
 > [!NOTE]
 > Audio Plugin 作成の前に，MATLAB の基本的な使い方を習得することをお勧めします．学習にはブラウザ上で MATLAB を学習できる [MATLAB 入門](https://matlabacademy.mathworks.com/jp/details/matlab-onramp/gettingstarted) をご活用ください．
