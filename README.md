@@ -43,10 +43,10 @@ Audio Toolbox が必要です．また，Audio Toolbox の依存する DSP Syste
 
 ### 3. C/C++ コンパイラ
 
-Audio Plugin の生成にはAudio Toolbox をカバーする C/C++ コンパイラのインストールが必要です．対応するコンパイラの一覧表は [こちら](https://jp.mathworks.com/support/requirements/supported-compilers.html)
+Audio Plugin の生成にはAudio Toolbox をカバーする C/C++ コンパイラのインストールが必要です．
+
+対応するコンパイラの一覧表は [こちら](https://jp.mathworks.com/support/requirements/supported-compilers.html)
 
 Windowsの場合は [Microsoft Visual C++ 2022](https://visualstudio.microsoft.com/ja/vs/community/) が利用可能です．
-
-
 
 > Visual Studio インストール時に Desktop development with C++（日本語では C++ によるデスクトップ開発）ワークロードを選択してください（詳細は[こちら](https://jp.mathworks.com/matlabcentral/answers/443349-how-do-i-install-visual-studio-for-use-with-matlab-simulink)）
