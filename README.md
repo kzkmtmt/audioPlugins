@@ -45,7 +45,7 @@ MATLAB の基本的な使い方．
 
 ### 3. C/C++ コンパイラ
 
-Audio Toolbox をカバーする C/C++ コンパイラのインストールが必要です．
+Audio Toolbox に対応した C/C++ コンパイラのインストールが必要です．
 
 Windows をお使いの場合，[Microsoft Visual C++ 2022](https://visualstudio.microsoft.com/ja/vs/community/) を利用できます．
 
