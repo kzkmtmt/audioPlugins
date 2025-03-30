@@ -18,7 +18,7 @@
 本リポジトリでは，MATLAB を用いて実装した Audio Plugin の実装を公開しています．
 解説は YouTube を参照してください．
 
-| #    | 解説 <br> [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=YouTube&logoColor=white)](https://www.youtube.com/@km_MATLAB_Amb) | 内容                              | 実装 <br> [![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat&logo=MATLAB&logoColor=white)]() | スライド（PDF）                                              |
+| #    | 解説 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=YouTube&logoColor=white)](https://www.youtube.com/@km_MATLAB_Amb) | 内容                              | 実装  [![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat&logo=MATLAB&logoColor=white)]() | スライド                                              |
 | ---- | ------------------------------------------------------------ | --------------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | 1    | [![YouTube](https://img.youtube.com/vi/6pWxrbXzk8g/0.jpg)](https://www.youtube.com/watch?v=6pWxrbXzk8g) | ゲイン (＋プラグインの作りの基礎) | `MATLAB_Gain.m`                                              | [PDF](https://kzkmtmt.github.io/audioPlugins/pdf/AudioPlugin_01_Gain.pdf) / [HTML](https://kzkmtmt.github.io/audioPlugins/AudioPlugin_01_Gain.html) |
 | 2    | [![YouTube](https://img.youtube.com/vi/D5gkb9DIL-c/0.jpg)](https://www.youtube.com/watch?v=D5gkb9DIL-c) | イコライザ                        | `MATLAB_EQ.m`<br />`calcBPFCoeffs.m`<br />`calcHPFCoeffs.m`<br />`calcLPFCoeffs.m` | [PDF](https://kzkmtmt.github.io/audioPlugins/pdf/AudioPlugin_02_EQ.pdf) / [HTML](https://kzkmtmt.github.io/audioPlugins/AudioPlugin_02_EQ.html) |
