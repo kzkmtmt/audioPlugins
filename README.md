@@ -1,6 +1,7 @@
 # MATLAB で Audio Plugin 開発
 
-松本和樹（早稲田大学，MATLAB Student Ambassador，[![X](https://img.shields.io/badge/X-000000?style=flat&logo=X&logoColor=white)](https://x.com/km_MATLAB_Amb)）
+早稲田大学 MATLAB Student Ambassador 
+松本和樹 [![X](https://img.shields.io/badge/X-000000?style=flat&logo=X&logoColor=white)](https://x.com/km_MATLAB_Amb) [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=YouTube&logoColor=white)](https://www.youtube.com/@km_MATLAB_Amb) 
 
 ## ダウンロード
 
@@ -12,7 +13,7 @@
 本リポジトリでは，MATLAB を用いて実装した Audio Plugin の実装を公開しています．
 解説は YouTube を参照してください．
 
-| #    | 内容                              | 実装 <br> ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat&logo=MATLAB&logoColor=white) | 解説動画 <br> [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=YouTube&logoColor=white)](https://www.youtube.com/your_channel) | スライド（PDF）                                              | スライド（HTML）                                             |
+| #    | 内容                              | 実装 ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat&logo=MATLAB&logoColor=white) | 解説動画 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=YouTube&logoColor=white)](https://www.youtube.com/@km_MATLAB_Amb) | スライド（PDF）                                              | スライド（HTML）                                             |
 | ---- | --------------------------------- | --------------------- | --------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | 1    | ゲイン (＋プラグインの作りの基礎) | `MATLAB_Gain.m`       | [YouTube](https://youtu.be/bWrkLawnXwI) | [PDF](https://kzkmtmt.github.io/audioPlugins/pdf/AudioPlugin_01_Gain.pdf) | [HTML](https://kzkmtmt.github.io/audioPlugins/AudioPlugin_01_Gain.html) |
 | 2    | イコライザ                        | `MATLAB_EQ.m`         | [YouTube](https://youtu.be/MqkE1pm16eA) | [PDF](https://kzkmtmt.github.io/audioPlugins/pdf/AudioPlugin_02_EQ.pdf) | [HTML](https://kzkmtmt.github.io/audioPlugins/AudioPlugin_02_EQ.html) |
