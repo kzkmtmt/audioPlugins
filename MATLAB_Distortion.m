@@ -8,7 +8,7 @@ classdef MATLAB_Distortion < audioPlugin
     end
 
     properties (Constant)
-        M = 8; % オーバーサンプリングの時数
+        M = 8; % オーバーサンプリングの次数
     end
 
     properties (Constant)
@@ -18,7 +18,7 @@ classdef MATLAB_Distortion < audioPlugin
             'Mapping',{'lin',0,30}), ...
             audioPluginParameter('bias',...
             'DisplayName','Bias',...
-            'Mapping',{'lin',-1,1}) ...
+            'Mapping',{'lin',-2,2}) ...
             );
     end
 
@@ -32,11 +32,20 @@ classdef MATLAB_Distortion < audioPlugin
 
         % 処理
         function y = process(p,x)
-            a   = db2mag(p.pregain);       % 単位変換
+            % 解説動画内の実装
+            % a   = db2mag(p.pregain);
+            % b   = p.bias;
+            % x2  = p.interpolator(x);
+            % y2  = hardclip(a*(x2 + b));
+            % y   = p.decimator(y2);
+
+            % 改良版
+            a   = db2mag(p.pregain);
             b   = p.bias;
-            xos = p.interpolator(x);       % アップサンプリング
-            yos = hardclip(a * (xos + b)); % ディストーション
-            y   = p.decimator(yos);        % ダウンサンプリング
+            x2  = p.interpolator(x);
+            y2  = hardclip(a * x2 + b); % 式を変更
+            y   = p.decimator(y2);
+            y   = y - hardclip(b); % 直流成分の除去（スピーカーの損傷防止）
         end
     end
 end
