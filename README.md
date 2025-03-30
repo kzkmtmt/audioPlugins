@@ -5,6 +5,9 @@
 ## ダウンロード
 [サンプルプログラム（最新版）](https://github.com/kzkmtmt/audioPlugins/archive/refs/heads/main.zip) 
 
+> [!IMPORTANT]
+> プログラムの実行時には，ダウンロードした zip ファイルを展開した後，MATLAB の「現在のフォルダ」として開いてください．
+
 ## 内容
 本シリーズは Student Ambassador の活動の一環として作成した Audio Plugin 開発のチュートリアルです．
 
@@ -21,7 +24,7 @@ MATLAB の Audio Toolbox の機能を用い，VST Plugin を生成します．
 | 2    | イコライザ                        | `MATLAB_EQ.m`         |                 | [PDF](https://kzkmtmt.github.io/audioPlugins/pdf/AudioPlugin_02_EQ.pdf) | [HTML](https://kzkmtmt.github.io/audioPlugins/AudioPlugin_02_EQ.html) |
 | 3    | ディストーション                  | `MATLAB_Distortion.m` |                 | [PDF](https://kzkmtmt.github.io/audioPlugins/pdf/AudioPlugin_03_Distortion.pdf) | [HTML](https://kzkmtmt.github.io/audioPlugins/AudioPlugin_03_Distortion.html) |
 
-> [!NOTE]
+> [!TIP]
 > Audio Plugin 作成の前に，MATLAB の基本的な使い方を習得することをお勧めします．学習にはブラウザ上で MATLAB を学習できる [MATLAB 入門](https://matlabacademy.mathworks.com/jp/details/matlab-onramp/gettingstarted) をご活用ください．
 
 > [!WARNING]
@@ -33,7 +36,7 @@ MATLAB の Audio Toolbox の機能を用い，VST Plugin を生成します．
 
 MATLAB を入手してください．
 
-> [!NOTE]
+> [!TIP]
 > Campus-Wide License を導入している大学では，**大学のメールアドレスで MathWorks アカウントを作成**することで MATLAB を入手できます．
 > 詳細は[こちら](https://jp.mathworks.com/academia/tah-support-program/eligibility.html)，または各大学の案内をご確認ください．
 
