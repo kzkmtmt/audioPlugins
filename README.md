@@ -5,7 +5,7 @@
 ## ダウンロード & 実行手順
 1. [サンプルプログラム（最新版）](https://github.com/kzkmtmt/audioPlugins/archive/refs/heads/main.zip) をダウンロード & 展開してください．
 1. プログラムの入っているフォルダを MATLAB の「現在のフォルダ」として開いてください．
-1. それ以降は解説動画の通りです．
+1. 以降は解説動画の通りです．
 
 ## 内容
 本シリーズは Student Ambassador の活動の一環として作成した Audio Plugin 開発のチュートリアルです．
