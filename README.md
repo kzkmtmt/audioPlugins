@@ -62,7 +62,7 @@ Audio Toolbox に対応した C/C++ コンパイラが必要です．
 
 プラグイン生成用のコマンド
 ``` MATLAB
-generateAudioPlugin -outdir vst\ MATLAB_Gain.m
-generateAudioPlugin -outdir vst\ MATLAB_EQ.m
-generateAudioPlugin -outdir vst\ MATLAB_Distortion.m
+generateAudioPlugin -outdir dll\ MATLAB_Gain.m
+generateAudioPlugin -outdir dll\ MATLAB_EQ.m
+generateAudioPlugin -outdir dll\ MATLAB_Distortion.m
 ```
