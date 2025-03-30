@@ -31,7 +31,7 @@ MATLAB の Audio Toolbox の機能を用い，VST Plugin を生成します．
 MATLAB 本体が必要です．動画内では R2024b を使用しています．
 
 > [!NOTE]
-> Campus-Wide License を導入している大学では，<br>大学のメールアドレスで MathWorks アカウントを作成することで MATLAB を入手できます．<br>
+> Campus-Wide License を導入している大学では，**大学のメールアドレスで MathWorks アカウントを作成**することで MATLAB を入手できます．
 > 詳細は[こちら](https://jp.mathworks.com/academia/tah-support-program/eligibility.html)，または各大学の案内をご確認ください．
 
 ### 2. 各種 MATLAB Toolbox
