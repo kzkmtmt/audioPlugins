@@ -28,8 +28,9 @@ MATLAB の Audio Toolbox の機能を用い，VST Plugin を生成します．
 
 ### 1. MATLAB 本体
 
-[MATLAB](https://jp.mathworks.com/products/matlab.html) 本体が必要です．動画内では R2024b を使用しています．
+MATLAB 本体が必要です．動画内では R2024b を使用しています．
 
+> [!NOTE]
 > Campus-Wide License を導入している大学では，<br>大学のメールアドレスで MathWorks アカウントを作成することで MATLAB を入手できます．<br>
 > 詳細は[こちら](https://jp.mathworks.com/academia/tah-support-program/eligibility.html)，または各大学の案内をご確認ください．
 
@@ -46,11 +47,15 @@ MATLAB の Audio Toolbox の機能を用い，VST Plugin を生成します．
 
 Audio Toolbox に対応した C/C++ コンパイラが必要です．
 
-* Windows をお使いの場合，[Microsoft Visual C++ 2022](https://visualstudio.microsoft.com/ja/vs/community/) を利用できます．
-  > [!IMPORTANT]
-  > Visual Studio インストール時に「C++ によるデスクトップ開発」ワークロードを選択してください
-  > 
-  > <img src="https://github.com/user-attachments/assets/cb153f80-0a41-448b-9a19-6396ef86b96f" width="50%">
+**Windows** をお使いの場合，[Microsoft Visual C++ 2022](https://visualstudio.microsoft.com/ja/vs/community/) を利用できます．
 
-* Windows 以外をお使いの場合，ご自身の環境で利用できるコンパイラをインストールしてください．
-  > 対応するコンパイラの一覧表（[Mac](https://jp.mathworks.com/support/requirements/supported-compilers-mac.html) | [Linux](https://jp.mathworks.com/support/requirements/supported-compilers-linux.html)）の中から，Audio Toolbox にチェックマークの入っているものを選択してください．
+> [!IMPORTANT]
+> Visual Studio インストール時に「C++ によるデスクトップ開発」ワークロードを選択してください
+> 
+> <img src="https://github.com/user-attachments/assets/cb153f80-0a41-448b-9a19-6396ef86b96f" width="50%">
+
+
+**Windows 以外**をお使いの場合，ご自身の環境で利用できるコンパイラをインストールしてください．
+
+> [!IMPORTANT]
+> 対応するコンパイラの一覧表（[Mac](https://jp.mathworks.com/support/requirements/supported-compilers-mac.html) | [Linux](https://jp.mathworks.com/support/requirements/supported-compilers-linux.html)）の中から，Audio Toolbox にチェックマークの入っているものを選択してください．
