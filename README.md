@@ -1,22 +1,18 @@
-
----
-
 # MATLAB で Audio Plugin 開発
 
-松本和樹（早稲田大学，MATLAB Student Ambassador，[@km_MATLAB_Amb](https://x.com/km_MATLAB_Amb)）
+松本和樹（早稲田大学，MATLAB Student Ambassador，[![X](https://img.shields.io/badge/X-000000?style=flat&logo=X&logoColor=white)](https://x.com/km_MATLAB_Amb)）
 
 ## ダウンロード
 
 * [プログラム（最新版）](https://github.com/kzkmtmt/audioPlugins/archive/refs/heads/main.zip)
 
 ## 内容
-本シリーズは MATLAB Student Ambassador の活動の一環として作成した Audio Plugin 開発のチュートリアルです．
-MATLAB の Audio Toolbox の機能を用い，VST Plugin を生成します．
+本シリーズは MATLAB Student Ambassador の活動の一環として作成した Audio Plugin 開発のチュートリアルです．MATLAB の Audio Toolbox の機能を用い，音楽制作ソフトウェア上で動作する VST Plugin を生成します．
 
 本リポジトリでは，MATLAB を用いて実装した Audio Plugin の実装を公開しています．
 解説は YouTube を参照してください．
 
-| #    | 内容                              | 実装                  | 解説動画（YouTube） | スライド（PDF）                                              | スライド（HTML）                                             |
+| #    | 内容                              | 実装 <br> ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat&logo=MATLAB&logoColor=white) | 解説動画 <br> [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=YouTube&logoColor=white)](https://www.youtube.com/your_channel) | スライド（PDF）                                              | スライド（HTML）                                             |
 | ---- | --------------------------------- | --------------------- | --------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | 1    | ゲイン (＋プラグインの作りの基礎) | `MATLAB_Gain.m`       | [YouTube](https://youtu.be/bWrkLawnXwI) | [PDF](https://kzkmtmt.github.io/audioPlugins/pdf/AudioPlugin_01_Gain.pdf) | [HTML](https://kzkmtmt.github.io/audioPlugins/AudioPlugin_01_Gain.html) |
 | 2    | イコライザ                        | `MATLAB_EQ.m`         | [YouTube](https://youtu.be/MqkE1pm16eA) | [PDF](https://kzkmtmt.github.io/audioPlugins/pdf/AudioPlugin_02_EQ.pdf) | [HTML](https://kzkmtmt.github.io/audioPlugins/AudioPlugin_02_EQ.html) |
