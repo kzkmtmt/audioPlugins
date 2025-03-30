@@ -63,6 +63,11 @@ Audio Toolbox に対応した C/C++ コンパイラが必要です．
 
 ## その他
 
+テストベンチ起動コマンド
+```MATLAB
+audioTestBench MATLAB_Gain MATLAB_EQ MATLAB_Distortion
+```
+
 プラグインの生成コマンド
 ``` MATLAB
 generateAudioPlugin -outdir dll\ MATLAB_Gain.m
