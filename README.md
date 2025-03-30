@@ -23,7 +23,8 @@ MATLAB Student Ambassador の活動の一環として作成した Audio Plugin �
 | 2    | [![YouTube](https://img.youtube.com/vi/D5gkb9DIL-c/mqdefault.jpg)](https://www.youtube.com/watch?v=pDanvVW20As&list=PLiM3LSbTyvwuP9VU9jQL1NJttGce5oZxS&index=3) | `MATLAB_EQ.m`<br>`calcBPFCoeffs.m`<br>`calcHPFCoeffs.m`<br>`calcLPFCoeffs.m` <br> `note_02_EQ.mlx` | イコライザ <br> デジタルフィルタ <br> フレームベース処理                            | <a href="https://kzkmtmt.github.io/audioPlugins/pdf/AudioPlugin_02_EQ.pdf" target="_blank">PDF</a> <br> <a href="https://kzkmtmt.github.io/audioPlugins/AudioPlugin_02_EQ.html" target="_blank">HTML</a> |
 | 3    | [![YouTube](https://img.youtube.com/vi/pDanvVW20As/mqdefault.jpg)](https://www.youtube.com/watch?v=pDanvVW20As&list=PLiM3LSbTyvwuP9VU9jQL1NJttGce5oZxS&index=3&pp=gAQBiAQB) | `MATLAB_Distortion.m`<br> `note_03_Distortion.mlx`           | ディストーション <br> サンプリング定理 <br> オーバーサンプリング                      | <a href="https://kzkmtmt.github.io/audioPlugins/pdf/AudioPlugin_03_Distortion.pdf" target="_blank">PDF</a> <br> <a href="https://kzkmtmt.github.io/audioPlugins/AudioPlugin_03_Distortion.html" target="_blank">HTML</a> |
 
-
+> [!WARNING]
+> `note` ディレクトリは削除し，すべてのコードをリポジトリ直下に配置しました．`MATLAB_Distortion.m` は改良版をアップロードしています．解説動画内の実装とは挙動が異なりますのでご注意ください．
 
 > [!NOTE]
 > Audio Plugin 作成の前に，MATLAB の基本的な使い方を習得することをお勧めします．学習にはブラウザ上で MATLAB を学習できる [MATLAB 入門](https://matlabacademy.mathworks.com/jp/details/matlab-onramp/gettingstarted) をご活用ください．
@@ -34,8 +35,6 @@ MATLAB Student Ambassador の活動の一環として作成した Audio Plugin �
 
   ![image](https://github.com/user-attachments/assets/d34658c9-c091-4f0a-9bde-e306cd454a1e)
 
-> [!WARNING]
-> `note` ディレクトリは削除し，すべてのコードをリポジトリ直下に配置しました．`MATLAB_Distortion.m` は改良版をアップロードしています．解説動画内の実装とは挙動が異なりますのでご注意ください．
 
 ## プログラムの実行に必要なもの
   
