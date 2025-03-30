@@ -18,8 +18,8 @@ MATLAB の Audio Toolbox の機能を用い，VST Plugin を生成します．
 
 | #    | 内容                              | 実装                  | 解説動画（YouTube） | スライド（PDF）                                              | スライド（HTML）                                             |
 | ---- | --------------------------------- | --------------------- | --------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| 1    | ゲイン (＋プラグインの作りの基礎) | `MATLAB_Gain.m`       | [YouTube](https://www.youtube.com/watch?v=bWrkLawnXwI) | [PDF](https://kzkmtmt.github.io/audioPlugins/pdf/AudioPlugin_01_Gain.pdf) | [HTML](https://kzkmtmt.github.io/audioPlugins/AudioPlugin_01_Gain.html) |
-| 2    | イコライザ                        | `MATLAB_EQ.m`         |                 | [PDF](https://kzkmtmt.github.io/audioPlugins/pdf/AudioPlugin_02_EQ.pdf) | [HTML](https://kzkmtmt.github.io/audioPlugins/AudioPlugin_02_EQ.html) |
+| 1    | ゲイン (＋プラグインの作りの基礎) | `MATLAB_Gain.m`       | [YouTube](https://www.youtu.be/bWrkLawnXwI) | [PDF](https://kzkmtmt.github.io/audioPlugins/pdf/AudioPlugin_01_Gain.pdf) | [HTML](https://kzkmtmt.github.io/audioPlugins/AudioPlugin_01_Gain.html) |
+| 2    | イコライザ                        | `MATLAB_EQ.m`         | [YouTube](https://youtu.be/MqkE1pm16eA) | [PDF](https://kzkmtmt.github.io/audioPlugins/pdf/AudioPlugin_02_EQ.pdf) | [HTML](https://kzkmtmt.github.io/audioPlugins/AudioPlugin_02_EQ.html) |
 | 3    | ディストーション                  | `MATLAB_Distortion.m` |                 | [PDF](https://kzkmtmt.github.io/audioPlugins/pdf/AudioPlugin_03_Distortion.pdf) | [HTML](https://kzkmtmt.github.io/audioPlugins/AudioPlugin_03_Distortion.html) |
 
 > [!TIP]
