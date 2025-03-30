@@ -34,9 +34,9 @@ MATLAB の基本的な使い方．
 > Campus-Wide License を導入している大学では，<br>大学のメールアドレスで MathWorks アカウントを作成することで MATLAB を入手できます．<br>
 > 詳細は[こちら](https://jp.mathworks.com/academia/tah-support-program/eligibility.html)，または各大学の案内をご確認ください．
 
-### 2. 各種 Toolbox
+### 2. 各種 MATLAB Toolbox
 
-[Audio Toolbox](https://jp.mathworks.com/products/audio.html)，[DSP System Toolbox](https://jp.mathworks.com/products/dsp-system.html)，そして [Signal Processing Toolbox](https://jp.mathworks.com/products/signal.html) が必要です．
+Audio Toolbox，DSP System Toolbox，Signal Processing Toolbox が必要です．
 
 > MATLAB インストール時の Toolbox 選択欄でこれらの製品を追加してください．<br>
 > MATLAB をインストール済みの場合は <br> [ホーム > アドオン](https://jp.mathworks.com/products/matlab/add-on-explorer.html) から追加することも可能です．
