@@ -1,11 +1,13 @@
 # MATLAB で Audio Plugin 開発
 
 早稲田大学 MATLAB Student Ambassador 
-松本和樹 [![X](https://img.shields.io/badge/X-000000?style=flat&logo=X&logoColor=white)](https://x.com/km_MATLAB_Amb) [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=YouTube&logoColor=white)](https://www.youtube.com/@km_MATLAB_Amb) 
+松本和樹
+
+[![X](https://img.shields.io/badge/X-000000?style=flat&logo=X&logoColor=white)](https://x.com/km_MATLAB_Amb) [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=YouTube&logoColor=white)](https://www.youtube.com/@km_MATLAB_Amb) 
 
 ## ダウンロード
 
-* [プログラム（最新版）](https://github.com/kzkmtmt/audioPlugins/archive/refs/heads/main.zip)
+[プログラム（最新版）](https://github.com/kzkmtmt/audioPlugins/archive/refs/heads/main.zip)
 
 ## 内容
 本シリーズは MATLAB Student Ambassador の活動の一環として作成した Audio Plugin 開発のチュートリアルです．MATLAB の Audio Toolbox の機能を用い，音楽制作ソフトウェア上で動作する VST Plugin を生成します．
