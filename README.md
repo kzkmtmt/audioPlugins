@@ -39,7 +39,7 @@ MATLAB の基本的な使い方．
 Audio Toolbox が必要です．また，Audio Toolbox の依存する DSP System Toolbox と Signal Processing Toolbox も必要です．
 
 > MATLAB インストール時の Toolbox 選択欄でこれらの製品を追加してください．<br>
-> MATLAB をインストール済みの場合は <br> [ホーム > アドオン](https://jp.mathworks.com/products/matlab/add-on-explorer.html) から追加することも可能です．
+> MATLAB をインストール済みの場合は [ホーム > アドオン](https://jp.mathworks.com/products/matlab/add-on-explorer.html) から追加することも可能です．
 
 ### 3. C/C++ コンパイラ
 
