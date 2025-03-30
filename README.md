@@ -69,7 +69,7 @@ audioTestBench MATLAB_Gain MATLAB_EQ MATLAB_Distortion
 ```
 
 プラグインの生成コマンド
-``` MATLAB
+```MATLAB
 generateAudioPlugin -outdir dll\ MATLAB_Gain.m
 generateAudioPlugin -outdir dll\ MATLAB_EQ.m
 generateAudioPlugin -outdir dll\ MATLAB_Distortion.m
