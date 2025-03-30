@@ -45,9 +45,7 @@ MATLAB 本体が必要です．動画内では R2024b を使用しています�
 
 ### 3. C/C++ コンパイラ
 
-
 Audio Toolbox に対応した C/C++ コンパイラが必要です．
-  
   
 **Windows をお使いの場合**：[Microsoft Visual C++ 2022](https://visualstudio.microsoft.com/ja/vs/community/) を利用できます．
 
