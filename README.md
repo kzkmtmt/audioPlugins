@@ -9,6 +9,8 @@
 本シリーズは，MATLAB Student Ambassador の活動の一環として作成した，
 MATLAB を用いた Audio Plugin 開発のチュートリアルです．
 
+MATLAB の Audio Toolbox の機能を用い，VST Plugin を生成します．
+
 本リポジトリでは，MATLAB を用いて実装した Audio Plugin の実装を公開しています．
 解説は YouTube の動画を確認してください．
 
