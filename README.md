@@ -11,9 +11,7 @@
 
 ## 内容
 
-[![YouTube Playlist](https://img.youtube.com/vi/FBQJ2-S6N1g/0.jpg)](https://www.youtube.com/playlist?list=PLiM3LSbTyvwuP9VU9jQL1NJttGce5oZxS)
-
-[![再生リスト名](https://img.youtube.com/vi/動画ID/0.jpg)](https://www.youtube.com/playlist?list=再生リストID)
+[![YouTube Playlist](https://img.youtube.com/vi/6pWxrbXzk8g/0.jpg)](https://www.youtube.com/playlist?list=PLiM3LSbTyvwuP9VU9jQL1NJttGce5oZxS)
 
 本シリーズは MATLAB Student Ambassador の活動の一環として作成した Audio Plugin 開発のチュートリアルです．MATLAB の Audio Toolbox の機能を用い，音楽制作ソフトウェア上で動作する VST Plugin を生成します．
 
