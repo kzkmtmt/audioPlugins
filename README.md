@@ -1,8 +1,6 @@
 # MATLAB で Audio Plugin 開発
 
-早稲田大学 MATLAB Student Ambassador，松本和樹
-
-[![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat&logo=MATLAB&logoColor=white)](https://x.com/km_MATLAB_Amb) [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=YouTube&logoColor=white)](https://www.youtube.com/@km_MATLAB_Amb) 
+早稲田大学 MATLAB Student Ambassador，松本和樹　[![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat&logo=MATLAB&logoColor=white)](https://x.com/km_MATLAB_Amb) [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=YouTube&logoColor=white)](https://www.youtube.com/@km_MATLAB_Amb) 
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=flat&logo=github&logoColor=white)](https://github.com/kzkmtmt) [![X](https://img.shields.io/badge/X-000000?style=flat&logo=X&logoColor=white)](https://x.com/km_MATLAB_Amb)
 
 ## ダウンロード
