@@ -47,8 +47,8 @@ MATLAB インストール時の Toolbox 選択欄でこれらの製品を追加�
 
 Audio Toolbox に対応した C/C++ コンパイラが必要です．
 
-Windows をお使いの場合，[Microsoft Visual C++ 2022](https://visualstudio.microsoft.com/ja/vs/community/) を利用できます．
+* Windows をお使いの場合，[Microsoft Visual C++ 2022](https://visualstudio.microsoft.com/ja/vs/community/) を利用できます．
+  > Visual Studio インストール時に C++ によるデスクトップ開発ワークロードを選択してください（詳細は[こちら](https://jp.mathworks.com/matlabcentral/answers/443349-how-do-i-install-visual-studio-for-use-with-matlab-simulink)）
 
-> Visual Studio インストール時に C++ によるデスクトップ開発ワークロードを選択してください（詳細は[こちら](https://jp.mathworks.com/matlabcentral/answers/443349-how-do-i-install-visual-studio-for-use-with-matlab-simulink)）
-
-Windows 以外をお使いの場合，対応するコンパイラの一覧表（[Mac](https://jp.mathworks.com/support/requirements/supported-compilers-mac.html) | [Linux](https://jp.mathworks.com/support/requirements/supported-compilers-linux.html)）を確認し，ご自身の環境で利用できるコンパイラをインストールしてください．
+* Windows 以外をお使いの場合，ご自身の環境で利用できるコンパイラをインストールしてください．
+  > 対応するコンパイラの一覧表はこちら（[Mac](https://jp.mathworks.com/support/requirements/supported-compilers-mac.html) | [Linux](https://jp.mathworks.com/support/requirements/supported-compilers-linux.html)）．Audio Toolbox にチェックマークの入っているものを選択してください．
