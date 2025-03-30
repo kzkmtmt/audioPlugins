@@ -28,7 +28,7 @@ MATLAB の Audio Toolbox の機能を用い，VST Plugin を生成します．
 
 ### 1. MATLAB
 
-MATLAB のインストールが必要です．解説動画では R2024b を使用しています．
+MATLAB をインストールしてください．
 
 > [!NOTE]
 > Campus-Wide License を導入している大学では，**大学のメールアドレスで MathWorks アカウントを作成**することで MATLAB を入手できます．
