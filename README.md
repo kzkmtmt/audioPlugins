@@ -1,4 +1,3 @@
-[![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=kzkmtmt/audioPlugins)
 
 # MATLAB で Audio Plugin 開発
 
@@ -9,14 +8,15 @@
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=flat&logo=github&logoColor=white)](https://github.com/kzkmtmt)
 [![X](https://img.shields.io/badge/X-000000?style=flat&logo=X&logoColor=white)](https://x.com/km_MATLAB_Amb)
 
-## ダウンロード
 
-* [プログラム（最新版）](https://github.com/kzkmtmt/audioPlugins/archive/refs/heads/main.zip) 
-* [解説動画](https://www.youtube.com/watch?v=6pWxrbXzk8g&list=PLiM3LSbTyvwuP9VU9jQL1NJttGce5oZxS)
+[![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=kzkmtmt/audioPlugins)（`audioTestBench` や `generateAudioPlugin` は利用できません）
+
+## ダウンロードと視聴
+
+1. [プログラム（最新版）](https://github.com/kzkmtmt/audioPlugins/archive/refs/heads/main.zip) 
+1. [解説動画](https://www.youtube.com/watch?v=6pWxrbXzk8g&list=PLiM3LSbTyvwuP9VU9jQL1NJttGce5oZxS)
 
 ## 内容
-
-
 
 MATLAB Student Ambassador の活動の一環として作成した Audio Plugin 開発のチュートリアルです．MATLAB の Audio Toolbox の機能を用い，音楽制作ソフトウェア上で動作する VST Plugin を生成します．
 
