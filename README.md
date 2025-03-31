@@ -73,6 +73,12 @@ Audio Toolbox に対応した C/C++ コンパイラが必要です．
   
 **Windows 以外をお使いの場合（動作未確認）**：対応するコンパイラの一覧表（[Mac](https://jp.mathworks.com/support/requirements/supported-compilers-mac.html) | [Linux](https://jp.mathworks.com/support/requirements/supported-compilers-linux.html)）の中から，Audio Toolbox にチェックマークの入っているものを選択してください．
 
+## 参考文献
+
+1. MathWorks, Audio Plugin Creation and Hosting, url: [https://jp.mathworks.com/help/audio/audio-plugin-creation-and-hosting.html]
+1. 鏡 慎吾, やる夫で学ぶディジタル信号処理, url: [http://www.ic.is.tohoku.ac.jp/~swk/lecture/yaruodsp/main.html].
+1. U. Zölzer, Ed., DAFX: Digital Audio Effects. Chichester, UK: John Wiley & Sons, Ltd, 2011. doi: [https://doi.org/10.1002/9781119991298].
+
 ## 実行用コマンド
 
 テストベンチ起動コマンド
