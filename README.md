@@ -75,9 +75,9 @@ Audio Toolbox に対応した C/C++ コンパイラが必要です．
 
 ## 参考文献
 
-1. MathWorks, Audio Plugin Creation and Hosting, url: [https://jp.mathworks.com/help/audio/audio-plugin-creation-and-hosting.html]
-1. 鏡 慎吾, やる夫で学ぶディジタル信号処理, url: [http://www.ic.is.tohoku.ac.jp/~swk/lecture/yaruodsp/main.html].
-1. U. Zölzer, Ed., DAFX: Digital Audio Effects. Chichester, UK: John Wiley & Sons, Ltd, 2011. doi: [https://doi.org/10.1002/9781119991298].
+1. MathWorks, Audio Plugin Creation and Hosting, url: https://jp.mathworks.com/help/audio/audio-plugin-creation-and-hosting.html
+1. 鏡 慎吾, やる夫で学ぶディジタル信号処理, url: http://www.ic.is.tohoku.ac.jp/~swk/lecture/yaruodsp/main.html
+1. U. Zölzer, Ed., DAFX: Digital Audio Effects. Chichester, UK: John Wiley & Sons, Ltd, 2011. doi: https://doi.org/10.1002/9781119991298
 
 ## 実行用コマンド
 
