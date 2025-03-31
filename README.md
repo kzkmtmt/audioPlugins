@@ -4,11 +4,9 @@
 松本和樹 (早稲田大学 MATLAB Student Ambassador)　
 
 [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=kzkmtmt/audioPlugins)
-[![YouTube](https://img.youtube.com/vi/6pWxrbXzk8g/mqdefault.jpg)](https://www.youtube.com/watch?v=6pWxrbXzk8g&list=PLiM3LSbTyvwuP9VU9jQL1NJttGce5oZxS)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=YouTube&logoColor=white)](https://www.youtube.com/watch?v=6pWxrbXzk8g&list=PLiM3LSbTyvwuP9VU9jQL1NJttGce5oZxS)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=flat&logo=github&logoColor=white)](https://github.com/kzkmtmt)
 [![X](https://img.shields.io/badge/X-000000?style=flat&logo=X&logoColor=white)](https://x.com/km_MATLAB_Amb)
-
-※ MATLAB Online では `audioTestBench` や `generateAudioPlugin` は利用できません
 
 ## ダウンロードと視聴
 
