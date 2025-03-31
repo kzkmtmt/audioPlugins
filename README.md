@@ -15,11 +15,12 @@
 
 MATLAB Student Ambassador の活動の一環として作成した Audio Plugin 開発のチュートリアルです．MATLAB の Audio Toolbox の機能を用い，音楽制作ソフトウェア上で動作する VST Plugin を生成します．
 
-本ページでは，MATLAB を用いて実装した Audio Plugin の実装を公開しています．解説は YouTube を参照してください．
+本ページでは，MATLAB を用いて実装した Audio Plugin の実装を公開しています．解説は [YouTube](https://www.youtube.com/watch?v=6pWxrbXzk8g&list=PLiM3LSbTyvwuP9VU9jQL1NJttGce5oZxS) を参照してください．
 
 | #    | [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=YouTube&logoColor=white)](https://www.youtube.com/@km_MATLAB_Amb) | [![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat&logo=MATLAB&logoColor=white)]() | 内容                                   | 資料                                                         |
 | ---- | ------------------------------------------------------------ | ------------------------------------------------------------ | -------------------------------------- | ------------------------------------------------------------ |
-| 1    | [![YouTube](https://img.youtube.com/vi/6pWxrbXzk8g/mqdefault.jpg)](https://www.youtube.com/watch?v=6pWxrbXzk8g&list=PLiM3LSbTyvwuP9VU9jQL1NJttGce5oZxS&index=1) | `MATLAB_Gain.m` <br> `note_01_Gain.mlx`                      | ゲインの実装 <br> プラグインの作りの基礎 | [PDF](https://kzkmtmt.github.io/audioPlugins/pdf/AudioPlugin_01_Gain.pdf) <br> [HTML](https://kzkmtmt.github.io/audioPlugins/AudioPlugin_01_Gain.html) |
+| 1    | [![YouTube](https://img.youtube.com/vi/6pWxrbXzk8g/mqdefault.jpg)](https://www.youtube.com/watch?v=6pWxrbXzk8g&list=PLiM3LSbTyvwuP9VU9jQL1NJttGce5oZxS&index=1)
+[YouTube]((https://www.youtube.com/watch?v=6pWxrbXzk8g&list=PLiM3LSbTyvwuP9VU9jQL1NJttGce5oZxS&index=1)) | `MATLAB_Gain.m` <br> `note_01_Gain.mlx`                      | ゲインの実装 <br> プラグインの作りの基礎 | [PDF](https://kzkmtmt.github.io/audioPlugins/pdf/AudioPlugin_01_Gain.pdf) <br> [HTML](https://kzkmtmt.github.io/audioPlugins/AudioPlugin_01_Gain.html) |
 | 2    | [![YouTube](https://img.youtube.com/vi/D5gkb9DIL-c/mqdefault.jpg)](https://www.youtube.com/watch?v=pDanvVW20As&list=PLiM3LSbTyvwuP9VU9jQL1NJttGce5oZxS&index=3) | `MATLAB_EQ.m`<br>`calcBPFCoeffs.m`<br>`calcHPFCoeffs.m`<br>`calcLPFCoeffs.m` <br> `note_02_EQ.mlx` | イコライザ <br> デジタルフィルタ <br> フレームベース処理                            | <a href="https://kzkmtmt.github.io/audioPlugins/pdf/AudioPlugin_02_EQ.pdf" target="_blank">PDF</a> <br> <a href="https://kzkmtmt.github.io/audioPlugins/AudioPlugin_02_EQ.html" target="_blank">HTML</a> |
 | 3    | [![YouTube](https://img.youtube.com/vi/pDanvVW20As/mqdefault.jpg)](https://www.youtube.com/watch?v=pDanvVW20As&list=PLiM3LSbTyvwuP9VU9jQL1NJttGce5oZxS&index=3&pp=gAQBiAQB) | `MATLAB_Distortion.m`<br> `note_03_Distortion.mlx`           | ディストーション <br> サンプリング定理 <br> オーバーサンプリング                      | <a href="https://kzkmtmt.github.io/audioPlugins/pdf/AudioPlugin_03_Distortion.pdf" target="_blank">PDF</a> <br> <a href="https://kzkmtmt.github.io/audioPlugins/AudioPlugin_03_Distortion.html" target="_blank">HTML</a> |
 
